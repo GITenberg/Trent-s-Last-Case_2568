@@ -1,0 +1,39 @@
+_repo: Trent-s-Last-Case_2568
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bentley, E. C. (Edmund Clerihew)
+    aliases:
+    - Bentley, Edmund Clerihew
+    - Clerihew, E. (Edmund)
+    birthdate: 1875
+    deathdate: 1956
+    gutenberg_agent_id: '968'
+    url: http://www.gutenberg.org/2009/agents/968
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Clerihew_Bentley
+description: "Trent's Last Case is a detective novel written by E.C. Bentley and first\
+  \ published in 1913. Its central character reappeared subsequently in the novel\
+  \ Trent's Own Case (1936) and the short-story collection Trent Intervenes (1938).\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2568'
+  wikidata: Q3824759
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- !lcsh 'Trent, Philip (Fictitious character) -- Fiction'
+- GITenberg
+title: Trent's Last Case
+url: http://www.gutenberg.org/ebooks/2568
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Affaire_Manderson
+- https://en.wikipedia.org/wiki/Trent%27s_Last_Case
+- https://it.wikipedia.org/wiki/La_vedova_del_miliardario
+- https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E6%9C%80%E5%BE%8C%E3%81%AE%E4%BA%8B%E4%BB%B6

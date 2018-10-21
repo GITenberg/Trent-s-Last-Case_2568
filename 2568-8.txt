@@ -13,7 +13,7 @@ Author: E.C. (Edmund Clerihew) Bentley
 
 Release Date: 2001
 Posting Date: November 14, 2009 [EBook #2568]
-[Last updated: June 29, 2014]
+Last updated: September 18, 2015
 
 Language: English
 
@@ -139,6 +139,8 @@ wistfully, 'the Street is getting to be a mighty dull place since I
 quit.' By slow degrees this amiable weakness of the Colossus became
 known to the business world, which exulted greatly in the knowledge.
 
+***
+
 At the news of his death panic went through the markets like a
 hurricane; for it came at a luckless time. Prices tottered and crashed
 like towers in an earthquake. For two days Wall Street was a clamorous
@@ -216,6 +218,8 @@ of Manderson's body, with the inevitable rumour that it was suicide, was
 printing in a dozen newspaper offices; but before a copy reached Wall
 Street the tornado of the panic was in full fury, and Howard B. Jeffrey
 and his collaborators were whirled away like leaves before its breath.
+
+***
 
 All this sprang out of nothing.
 
@@ -348,7 +352,7 @@ knows when he got up and left the house. He was not missed until this
 morning. About ten o'clock his body was found by a gardener. It was
 lying by a shed in the grounds. He was shot in the head, through the
 left eye. Death must have been instantaneous. The body was not robbed,
-but there were marks on the wrists which pointed to a straggle having
+but there were marks on the wrists which pointed to a struggle having
 taken place. Dr Stock, of Marlstone, was at once sent for, and will
 conduct the post-mortem examination. The police from Bishopsbridge, who
 were soon on the spot, are reticent, but it is believed that they are
@@ -448,7 +452,9 @@ they don't know who has done it. They found the body this morning. It
 happened at his place near Bishopsbridge.' Sir James proceeded to tell
 his hearer, briefly and clearly, the facts that he had communicated to
 Mr. Figgis. 'What do you think of it?' he ended. A considering grunt was
-the only answer. 'Come now,' urged Sir James. 'Tempter!'
+the only answer. 'Come now,' urged Sir James.
+
+'Tempter!'
 
 'You will go down?'
 
@@ -617,7 +623,7 @@ coming, and when I got out of the train at seven o'clock this morning,
 there he was waiting for me with a motor car the size of a haystack. He
 is beside himself with joy at having me here. It is fame.' He drank a
 cup of tea and continued: 'Almost his first words were to ask me if
-I would like to see the body of the murdered man if so, he thought he
+I would like to see the body of the murdered man--if so, he thought he
 could manage it for me. He is as keen as a razor. The body lies in Dr
 Stock's surgery, you know, down in the village, exactly as it was when
 found. It's to be post-mortem'd this morning, by the way, so I was only
@@ -638,7 +644,9 @@ to remark other details of a suggestive nature.'
 'Other details, certainly; but I don't know that they suggest anything.
 They are merely odd. Take the wrists, for instance. How was it you
 could see bruises and scratches on them? I dare say you saw something of
-Manderson down here before the murder.' 'Certainly,' Mr. Cupples said.
+Manderson down here before the murder.'
+
+'Certainly,' Mr. Cupples said.
 
 'Well, did you ever see his wrists?'
 
@@ -896,8 +904,11 @@ did relieve it,' sighed Mr. Cupples, lying back in his chair.
 
 'Not a word. He listened to me with his eyes on my face, as quiet as
 before. When I stopped he smiled very slightly, and at once turned
-away and strolled through the gate, making for White Gables.' 'And this
-happened--?' 'On the Sunday morning.'
+away and strolled through the gate, making for White Gables.'
+
+'And this happened--?'
+
+'On the Sunday morning.'
 
 'Then I suppose you never saw him alive again?'
 
@@ -1094,6 +1105,8 @@ was almost the only detail of his personality known to the public. He
 had imposed absolute silence about himself upon the Molloy papers; and
 the others were not going to advertise one of Sir James's men.
 
+***
+
 The Manderson case, he told himself as he walked rapidly up the sloping
 road to White Gables, might turn out to be terribly simple. Cupples
 was a wise old boy, but it was probably impossible for him to have an
@@ -1106,7 +1119,7 @@ at the sound of her voice,' he had said, 'nor yet a grown-up, for the
 matter of that. Everybody used to look forward to her coming over in
 the summer. I don't mean that she's one of those women that are all kind
 heart and nothing else. There's backbone with it, if you know what I
-mean--pluck any amount of go. There's nobody in Marlstone that isn't
+mean--pluck--any amount of go. There's nobody in Marlstone that isn't
 sorry for the lady in her trouble--not but what some of us may think
 she's lucky at the last of it.' Trent wanted very much to meet Mrs.
 Manderson.
@@ -1282,6 +1295,8 @@ The inspector then replied to Trent's last words with cordial agreement.
 Leaning on either side of the French window, with the deep peace and
 hazy splendor of the summer landscape before them, they reviewed the
 case.
+
+***
 
 Trent had taken out a thin notebook, and as they talked he began to
 make, with light, secure touches, a rough sketch plan of the room. It
@@ -1720,7 +1735,7 @@ refer to as a Tuxedo, which he usually wore when dining at home.'
 usually happened, he would change it for an old shooting-jacket after
 dinner, a light-coloured tweed, a little too loud in pattern for English
 tastes, perhaps. He had it on when I saw him last. It used to hang in
-this cupboard here'--Martin opened the door of it as he spoke--along
+this cupboard here'--Martin opened the door of it as he spoke--'along
 with Mr. Manderson's fishing-rods and such things, so that he could slip
 it on after dinner without going upstairs.'
 
@@ -1877,7 +1892,7 @@ Trent shook his head. 'We can't build anything on that last
 consideration. I've gone into the subject with people who know. I
 shouldn't wonder,' he added, 'if the traditional notions about loss of
 temperature and rigour after death had occasionally brought an innocent
-man to the gallows, or near it, Dr. Stock has them all, I feel sure;
+man to the gallows, or near it. Dr. Stock has them all, I feel sure;
 most general practitioners of the older generation have. That Dr. Stock
 will make an ass of himself at the inquest, is almost as certain as that
 tomorrow's sun will rise. I've seen him. He will say the body must have
@@ -1907,8 +1922,9 @@ riser, was up and dressed at or before 6.30; and why neither Martin,
 who sleeps lightly, nor Bunner, nor his wife heard him moving about,
 or letting himself out of the house. He must have been careful. He must
 have crept about like a cat. Do you feel as I do, Murch, about all this;
-that it is very, very strange and baffling?' 'That's how it looks,'
-agreed the inspector.
+that it is very, very strange and baffling?'
+
+'That's how it looks,' agreed the inspector.
 
 'And now,' said Trent, rising to his feet, 'I'll leave you to your
 meditations, and take a look at the bedrooms. Perhaps the explanation of
@@ -2032,7 +2048,7 @@ and hunted through them carefully. The litter on the dressing-table now
 engaged his attention for the second time. Then he sat down on the
 empty chair, took his head in his hands, and remained in that attitude,
 staring at the carpet, for some minutes. He rose at last and opened the
-inner door leading to Mrs Manderson's room.
+inner door leading to Mrs. Manderson's room.
 
 It was evident at a glance that the big room had been hurriedly put down
 from its place as the lady's bower. All the array of objects that belong
@@ -2079,7 +2095,7 @@ into Manderson's room, and rang the bell.
 
 'I want your help again, Martin,' he said, as the butler presented
 himself, upright and impassive, in the doorway. 'I want you to prevail
-upon Mrs Manderson's maid to grant me an interview.'
+upon Mrs. Manderson's maid to grant me an interview.'
 
 'Certainly, sir,' said Martin.
 
@@ -2103,7 +2119,7 @@ of Trent from a window when he had crossed the lawn, and had been hoping
 desperately that the resolver of mysteries (whose reputation was as
 great below-stairs as elsewhere) would send for her. For one thing,
 she felt the need to make a scene; her nerves were overwrought. But her
-scenes were at a discount with the other domestics, and as for Mr Murch,
+scenes were at a discount with the other domestics, and as for Mr. Murch,
 he had chilled her into self-control with his official manner. Trent,
 her glimpse of him had told her, had not the air of a policeman, and at
 a distance he had appeared sympathique.
@@ -2138,7 +2154,7 @@ breath and spread her hands abroad.
 
 Trent, who had followed her movements and gesticulations with deepening
 gravity, nodded his head. 'I see exactly how it was now,' he said.
-'Thank you, Célestine. So Mr Manderson was supposed to be still in
+'Thank you, Célestine. So Mr. Manderson was supposed to be still in
 his room while your mistress was getting up, and dressing, and having
 breakfast in her boudoir?'
 
@@ -2168,8 +2184,8 @@ some common sense! If the inspector downstairs heard you saying that
 kind of thing, you would get into trouble. And don't wave your fists
 about so much; you might hit something. You seem,' he went on more
 pleasantly, as Célestine grew calmer under his authoritative eye, 'to be
-even more glad than other people that Mr Manderson is out of the way. I
-could almost suspect, Célestine, that Mr Manderson did not take as much
+even more glad than other people that Mr. Manderson is out of the way. I
+could almost suspect, Célestine, that Mr. Manderson did not take as much
 notice of you as you thought necessary and right.'
 
 'A peine s'il m'avait regardé!' Célestine answered simply.
@@ -2233,9 +2249,9 @@ A step was heard on the stairs, and as Trent opened the breech and
 peered into the barrel of the weapon, Inspector Murch appeared at the
 open door of the room. 'I was wondering--' he began; then stopped as
 he saw what the other was about. His intelligent eyes opened slightly.
-'Whose is the revolver, Mr Trent?' he asked in a conversational tone.
+'Whose is the revolver, Mr. Trent?' he asked in a conversational tone.
 
-'Evidently it belongs to the occupant of the room, Mr Marlowe,' replied
+'Evidently it belongs to the occupant of the room, Mr. Marlowe,' replied
 Trent with similar lightness, pointing to the initials. 'I found this
 lying about on the mantelpiece. It seems a handy little pistol to me,
 and it has been very carefully cleaned, I should say, since the last
@@ -2243,7 +2259,7 @@ time it was used. But I know little about firearms.'
 
 'Well, I know a good deal,' rejoined the inspector quietly, taking the
 revolver from Trent's outstretched hand. 'It's a bit of a speciality
-with me, is firearms, as I think you know, Mr Trent. But it don't
+with me, is firearms, as I think you know, Mr. Trent. But it don't
 require an expert to tell one thing.' He replaced the revolver in its
 case on the mantel-shelf, took out one of the cartridges, and laid it
 on the spacious palm of one hand; then, taking a small object from
@@ -2253,11 +2269,11 @@ bright new scratches.
 
 'Is that the one?' Trent murmured as he bent over the inspector's hand.
 
-'That's him,' replied Mr Murch. 'Lodged in the bone at the back of the
+'That's him,' replied Mr. Murch. 'Lodged in the bone at the back of the
 skull. Dr Stock got it out within the last hour, and handed it to the
 local officer, who has just sent it on to me. These bright scratches you
 see were made by the doctor's instruments. These other marks were made
-by the rifling of the barrel a barrel like this one.' He tapped the
+by the rifling of the barrel--a barrel like this one.' He tapped the
 revolver. 'Same make, same calibre. There is no other that marks the
 bullet just like this.'
 
@@ -2269,13 +2285,13 @@ doubt, I believe, about Manderson having dispatched Marlowe in the car
 to Southampton, or about Marlowe having gone, returning late last night,
 many hours after the murder was committed.'
 
-'There is no doubt whatever about all that,' said Mr Murch, with a
+'There is no doubt whatever about all that,' said Mr. Murch, with a
 slight emphasis on the verb.
 
 'And now,' pursued Trent, 'we are invited by this polished and
 insinuating firearm to believe the following line of propositions: that
 Marlowe never went to Southampton; that he returned to the house in the
-night; that he somehow, without waking Mrs Manderson or anybody else,
+night; that he somehow, without waking Mrs. Manderson or anybody else,
 got Manderson to get up, dress himself, and go out into the grounds;
 that he then and there shot the said Manderson with his incriminating
 pistol; that he carefully cleaned the said pistol, returned to the house
@@ -2286,7 +2302,7 @@ car; and that he turned up, feigning ignorance of the whole affair,
 at--what time was it?'
 
 'A little after 9 p.m.' The inspector still stared moodily at Trent. 'As
-you say, Mr Trent, that is the first theory suggested by this find, and
+you say, Mr. Trent, that is the first theory suggested by this find, and
 it seems wild enough--at least it would do if it didn't fall to pieces
 at the very start. When the murder was done Marlowe must have been fifty
 to a hundred miles away. He did go to Southampton.'
@@ -2300,10 +2316,10 @@ Southampton about 6.30 on the Monday morning.'
 What do you care about his story? I want to know how you know he went to
 Southampton.'
 
-Mr Murch chuckled. 'I thought I should take a rise out of you, Mr
+Mr. Murch chuckled. 'I thought I should take a rise out of you, Mr
 Trent,' he said. 'Well, there's no harm in telling you. After I arrived
 yesterday evening, as soon as I had got the outlines of the story from
-Mrs Manderson and the servants, the first thing I did was to go to the
+Mrs. Manderson and the servants, the first thing I did was to go to the
 telegraph office and wire to our people in Southampton. Manderson had
 told his wife when he went to bed that he had changed his mind, and sent
 Marlowe to Southampton to get some important information from some one
@@ -2323,7 +2339,7 @@ WHERE HE LUNCHED ABOUT 1.15 LEFT SOON AFTERWARDS IN CAR COMPANY'S AGENTS
 INFORM BERTH WAS BOOKED NAME HARRIS LAST WEEK BUT HARRIS DID NOT TRAVEL
 BY BOAT BURKE INSPECTOR.
 
-'Simple and satisfactory,' observed Mr Murch as Trent, after twice
+'Simple and satisfactory,' observed Mr. Murch as Trent, after twice
 reading the message, returned it to him. 'His own story corroborated in
 every particular. He told me he hung about the dock for half an hour or
 so on the chance of Harris turning up late, then strolled back, lunched,
@@ -2341,7 +2357,7 @@ cartridges about so carelessly,' he remarked at length, as he put it
 back in the case. 'It was throwing temptation in somebody's way, don't
 you think?'
 
-Mr Murch shook his head. 'There isn't really much to lay hold of about
+Mr. Murch shook his head. 'There isn't really much to lay hold of about
 the revolver, when you come to think. That particular make of revolver
 is common enough in England. It was introduced from the States. Half
 the people who buy a revolver today for self-defence or mischief provide
@@ -2365,40 +2381,40 @@ faces of Trent and the inspector. They, who had not heard a sound to
 herald this entrance, simultaneously looked at his long, narrow feet. He
 wore rubber-soled tennis shoes.
 
-'You must be Mr Bunner,' said Trent.
+'You must be Mr. Bunner,' said Trent.
 
 
 
 
-CHAPTER VI: Mr Bunner on the Case
+CHAPTER VI: Mr. Bunner on the Case
 
 'Calvin C. Bunner, at your service,' amended the newcomer, with a touch
 of punctilio, as he removed an unlighted cigar from his mouth. He was
 used to finding Englishmen slow and ceremonious with strangers, and
 Trent's quick remark plainly disconcerted him a little. 'You are Mr
-Trent, I expect,' he went on. 'Mrs Manderson was telling me a while ago.
-Captain, good-morning.' Mr Murch acknowledged the outlandish greeting
+Trent, I expect,' he went on. 'Mrs. Manderson was telling me a while ago.
+Captain, good-morning.' Mr. Murch acknowledged the outlandish greeting
 with a nod. 'I was coming up to my room, and I heard a strange voice in
-here, so I thought I would take a look in.' Mr Bunner laughed easily.
+here, so I thought I would take a look in.' Mr. Bunner laughed easily.
 'You thought I might have been eavesdropping, perhaps,' he said. 'No,
 sir; I heard a word or two about a pistol--this one, I guess--and that's
 all.'
 
-Mr Bunner was a thin, rather short young man with a shaven, pale, bony,
+Mr. Bunner was a thin, rather short young man with a shaven, pale, bony,
 almost girlish face, and large, dark, intelligent eyes. His waving dark
 hair was parted in the middle. His lips, usually occupied with a cigar,
 in its absence were always half open with a curious expression as of
 permanent eagerness. By smoking or chewing a cigar this expression was
-banished, and Mr Bunner then looked the consummately cool and sagacious
+banished, and Mr. Bunner then looked the consummately cool and sagacious
 Yankee that he was.
 
 Born in Connecticut, he had gone into a broker's office on leaving
 college, and had attracted the notice of Manderson, whose business with
 his firm he had often handled. The Colossus had watched him for some
-time, and at length offered him the post of private secretary. Mr Bunner
+time, and at length offered him the post of private secretary. Mr. Bunner
 was a pattern business man, trustworthy, long-headed, methodical, and
 accurate. Manderson could have found many men with those virtues; but he
-engaged Mr Bunner because he was also swift and secret, and had besides
+engaged Mr. Bunner because he was also swift and secret, and had besides
 a singular natural instinct in regard to the movements of the stock
 market.
 
@@ -2409,24 +2425,24 @@ have shot Manderson does not amount to very much. I am told it is a
 favourite weapon among your people, and has become quite popular over
 here.'
 
-Mr Bunner stretched out a bony hand and took the pistol from its case.
+Mr. Bunner stretched out a bony hand and took the pistol from its case.
 'Yes, sir,' he said, handling it with an air of familiarity; 'the
 captain is right. This is what we call out home a Little Arthur, and I
 dare say there are duplicates of it in a hundred thousand hip-pockets
-this minute. I consider it too light in the hand myself,' Mr Bunner went
+this minute. I consider it too light in the hand myself,' Mr. Bunner went
 on, mechanically feeling under the tail of his jacket, and producing an
-ugly looking weapon. 'Feel of that, now, Mr Trent--it's loaded, by the
+ugly looking weapon. 'Feel of that, now, Mr. Trent--it's loaded, by the
 way. Now this Little Arthur--Marlowe bought it just before we came over
 this year to please the old man. Manderson said it was ridiculous for a
 man to be without a pistol in the twentieth century. So he went out and
 bought what they offered him, I guess--never consulted me. Not but
-what it's a good gun,' Mr Bunner conceded, squinting along the sights.
+what it's a good gun,' Mr. Bunner conceded, squinting along the sights.
 'Marlowe was poor with it at first, but I've coached him some in the
 last month or so, and he's practised until he is pretty good. But he
 never could get the habit of carrying it around. Why, it's as natural to
 me as wearing my pants. I have carried one for some years now, because
 there was always likely to be somebody laying for Manderson. And now,'
-Mr Bunner concluded sadly, 'they got him when I wasn't around. Well,
+Mr. Bunner concluded sadly, 'they got him when I wasn't around. Well,
 gentlemen, you must excuse me. I am going into Bishopsbridge. There is
 a lot to do these days, and I have to send off a bunch of cables big
 enough to choke a cow.'
@@ -2434,23 +2450,23 @@ enough to choke a cow.'
 'I must be off too,' said Trent. 'I have an appointment at the "Three
 Tuns" inn.'
 
-Let me give you a lift in the automobile,' said Mr Bunner cordially. 'I
+Let me give you a lift in the automobile,' said Mr. Bunner cordially. 'I
 go right by that joint. Say, cap., are you coming my way too? No? Then
-come along, Mr Trent, and help me get out the car. The chauffeur is out
+come along, Mr. Trent, and help me get out the car. The chauffeur is out
 of action, and we have to do 'most everything ourselves except clean the
 dirt off her.'
 
-Still tirelessly talking in his measured drawl, Mr Bunner led Trent
+Still tirelessly talking in his measured drawl, Mr. Bunner led Trent
 downstairs and through the house to the garage at the back. It stood at
 a little distance from the house, and made a cool retreat from the blaze
 of the midday sun.
 
-Mr Bunner seemed to be in no hurry to get out the car. He offered Trent
+Mr. Bunner seemed to be in no hurry to get out the car. He offered Trent
 a cigar, which was accepted, and for the first time lit his own. Then
 he seated himself on the footboard of the car, his thin hands clasped
 between his knees, and looked keenly at the other.
 
-'See here, Mr Trent,' he said, after a few moments. 'There are some
+'See here, Mr. Trent,' he said, after a few moments. 'There are some
 things I can tell you that may be useful to you. I know your record. You
 are a smart man, and I like dealing with smart men. I don't know if I
 have that detective sized up right, but he strikes me as a mutt. I would
@@ -2465,17 +2481,17 @@ officers in Europe. He is not very quick with his mind, but he is very
 sure. And his experience is immense. My forte is imagination, but I
 assure you in police work experience outweighs it by a great deal.'
 
-'Outweigh nothing!' replied Mr Bunner crisply. 'This is no ordinary
-case, Mr Trent. I will tell you one reason why. I believe the old man
+'Outweigh nothing!' replied Mr. Bunner crisply. 'This is no ordinary
+case, Mr. Trent. I will tell you one reason why. I believe the old man
 knew there was something coming to him. Another thing: I believe it was
 something he thought he couldn't dodge.'
 
-Trent pulled a crate opposite to Mr Bunner's place on the footboard
+Trent pulled a crate opposite to Mr. Bunner's place on the footboard
 and seated himself. 'This sounds like business,' he said. 'Tell me your
 ideas.'
 
 'I say what I do because of the change in the old man's manner this last
-few weeks. I dare say you have heard, Mr Trent, that he was a man who
+few weeks. I dare say you have heard, Mr. Trent, that he was a man who
 always kept himself well in hand. That was so. I have always considered
 him the coolest and hardest head in business. That man's calm was just
 deadly--I never saw anything to beat it. And I knew Manderson as nobody
@@ -2486,7 +2502,7 @@ thing on. I knew him better than any of his friends.'
 
 'Had he any friends?' interjected Trent.
 
-Mr Bunner glanced at him sharply. 'Somebody has been putting you next, I
+Mr. Bunner glanced at him sharply. 'Somebody has been putting you next, I
 see that,' he remarked. 'No: properly speaking, I should say not. He
 had many acquaintances among the big men, people he saw, most every day;
 they would even go yachting or hunting together. But I don't believe
@@ -2497,7 +2513,7 @@ everlastingly brooding over something bad, something that he couldn't
 fix. This went on without any break; it was the same down town as it
 was up home, he acted just as if there was something lying heavy on his
 mind. But it wasn't until a few weeks back that his self-restraint began
-to go; and let me tell you this, Mr Trent'--the American laid his bony
+to go; and let me tell you this, Mr. Trent'--the American laid his bony
 claw on the other's knee--'I'm the only man that knows it. With every
 one else he would be just morose and dull; but when he was alone with
 me in his office, or anywhere where we would be working together, if the
@@ -2513,7 +2529,7 @@ like going all to pieces over there. I supposed that this anxiety of
 his, whatever it was, had got on to his nerves till they were worn out.
 Once I advised him to see a doctor, and he told me to go to hell. But
 nobody saw this side of him but me. If he was having one of these rages
-in the library here, for example, and Mrs Manderson would come into the
+in the library here, for example, and Mrs. Manderson would come into the
 room, he would be all calm and cold again in an instant.'
 
 'And you put this down to some secret anxiety, a fear that somebody had
@@ -2527,12 +2543,12 @@ is the first thought that your account suggests to me. Besides, it is
 what is always happening to your big business men in America, isn't it?
 That is the impression one gets from the newspapers.'
 
-'Don't let them slip you any of that bunk,' said Mr Bunner earnestly.
+'Don't let them slip you any of that bunk,' said Mr. Bunner earnestly.
 'It's only the ones who have got rich too quick, and can't make good,
 who go crazy. Think of all our really big men--the men anywhere near
 Manderson's size: did you ever hear of any one of them losing his
 senses? They don't do it--believe me. I know they say every man has
-his loco point,' Mr Bunner added reflectively, 'but that doesn't mean
+his loco point,' Mr. Bunner added reflectively, 'but that doesn't mean
 genuine, sure-enough craziness; it just means some personal eccentricity
 in a man ... like hating cats ... or my own weakness of not being able to
 touch any kind of fish-food.'
@@ -2552,7 +2568,7 @@ liked to have anybody touch him. All his life nobody ever shaved him.'
 'I've heard something of that,' Trent remarked. 'Why was it, do you
 think?'
 
-'Well,' Mr Bunner answered slowly, 'it was the Manderson habit of mind,
+'Well,' Mr. Bunner answered slowly, 'it was the Manderson habit of mind,
 I guess; a sort of temper of general suspicion and jealousy.
 
 'They say his father and grandfather were just the same.... Like a dog
@@ -2564,16 +2580,16 @@ convinced that somebody else was after his bone--which was true enough a
 good deal of the time; but not all the time. The consequence of that was
 that the old man was the most cautious and secret worker in the world
 of finance; and that had a lot to do with his success, too.... But that
-doesn't amount to being a lunatic, Mr Trent; not by a long way. You ask
+doesn't amount to being a lunatic, Mr. Trent; not by a long way. You ask
 me if Manderson was losing his mind before he died. I say I believe
 he was just worn out with worrying over something, and was losing his
 nerve.'
 
-Trent smoked thoughtfully. He wondered how much Mr Bunner knew of the
+Trent smoked thoughtfully. He wondered how much Mr. Bunner knew of the
 domestic difficulty in his chief's household, and decided to put out a
 feeler. 'I understood that he had trouble with his wife.'
 
-'Sure,' replied Mr Bunner. 'But do you suppose a thing like that was
+'Sure,' replied Mr. Bunner. 'But do you suppose a thing like that was
 going to upset Sig Manderson that way? No, sir! He was a sight too big a
 man to be all broken up by any worry of that kind.'
 
@@ -2584,23 +2600,23 @@ minor source of trouble for a big man.
 
 'What was the trouble between them, anyhow?' Trent enquired.
 
-'You can search me,' Mr Bunner replied briefly. He puffed at his cigar.
+'You can search me,' Mr. Bunner replied briefly. He puffed at his cigar.
 'Marlowe and I have often talked about it, and we could never make out
-a solution. I had a notion at first,' said Mr Bunner in a lower voice,
+a solution. I had a notion at first,' said Mr. Bunner in a lower voice,
 leaning forward, 'that the old man was disappointed and vexed because
 he had expected a child; but Marlowe told me that the disappointment
 on that score was the other way around, likely as not. His idea was all
-right, I guess; he gathered it from something said by Mrs Manderson's
+right, I guess; he gathered it from something said by Mrs. Manderson's
 French maid.'
 
 Trent looked up at him quickly. 'Célestine!' he said; and his thought
 was, 'So that was what she was getting at!'
 
-Mr Bunner misunderstood his glance. 'Don't you think I'm giving a man
-away, Mr Trent,' he said. 'Marlowe isn't that kind. Célestine just took
+Mr. Bunner misunderstood his glance. 'Don't you think I'm giving a man
+away, Mr. Trent,' he said. 'Marlowe isn't that kind. Célestine just took
 a fancy to him because he talks French like a native, and she would
 always be holding him up for a gossip. French servants are quite unlike
-English that way. And servant or no servant,' added Mr Bunner with
+English that way. And servant or no servant,' added Mr. Bunner with
 emphasis, 'I don't see how a woman could mention such a subject to a
 man. But the French beat me.' He shook his head slowly.
 
@@ -2608,19 +2624,19 @@ man. But the French beat me.' He shook his head slowly.
 'You believe that Manderson was going in terror of his life for some
 time. Who should threaten it? I am quite in the dark.'
 
-'Terror--I don't know,' replied Mr Bunner meditatively. 'Anxiety, if you
+'Terror--I don't know,' replied Mr. Bunner meditatively. 'Anxiety, if you
 like. Or suspense--that's rather my idea of it. The old man was hard
 to terrify, anyway; and more than that, he wasn't taking any
 precautions--he was actually avoiding them. It looked more like he was
 asking for a quick finish--supposing there's any truth in my idea. Why,
 he would sit in that library window, nights, looking out into the dark,
 with his white shirt just a target for anybody's gun. As for who should
-threaten his life well, sir,' said Mr Bunner with a faint smile, 'it's
+threaten his life well, sir,' said Mr. Bunner with a faint smile, 'it's
 certain you have not lived in the States. To take the Pennsylvania coal
 hold-up alone, there were thirty thousand men, with women and children
 to keep, who would have jumped at the chance of drilling a hole through
 the man who fixed it so that they must starve or give in to his terms.
-Thirty thousand of the toughest aliens in the country, Mr Trent. There's
+Thirty thousand of the toughest aliens in the country, Mr. Trent. There's
 a type of desperado you find in that kind of push who has been known to
 lay for a man for years, and kill him when he had forgotten what he did.
 They have been known to dynamite a man in Idaho who had done them dirt
@@ -2634,19 +2650,19 @@ is why he should have just laid himself open to them the way he did--why
 he never tried to dodge, but walked right down into the garden yesterday
 morning to be shot at.'
 
-Mr Bunner ceased to speak, and for a little while both men sat with
+Mr. Bunner ceased to speak, and for a little while both men sat with
 wrinkled brows, faint blue vapours rising from their cigars. Then Trent
 rose. 'Your theory is quite fresh to me,' he said. 'It's perfectly
-rational, and it's only a question of whether it fits all the facts, I
-mustn't give away what I'm doing for my newspaper, Mr Bunner, but I will
+rational, and it's only a question of whether it fits all the facts. I
+mustn't give away what I'm doing for my newspaper, Mr. Bunner, but I will
 say this: I have already satisfied myself that this was a premeditated
 crime, and an extraordinarily cunning one at that. I'm deeply obliged to
 you. We must talk it over again.' He looked at his watch. 'I have been
 expected for some time by my friend. Shall we make a move?'
 
-'Two o'clock,' said Mr Bunner, consulting his own, as he got up from
+'Two o'clock,' said Mr. Bunner, consulting his own, as he got up from
 the foot-board. 'Ten a.m. in little old New York. You don't know Wall
-Street, Mr Trent. Let's you and I hope we never see anything nearer hell
+Street, Mr. Trent. Let's you and I hope we never see anything nearer hell
 than what's loose in the Street this minute.'
 
 
@@ -2668,15 +2684,15 @@ hand, was turning over his plans for the morning.
 It was the day of the inquest, the day after his arrival in the place.
 He had carried matters not much further after parting with the American
 on the road to Bishopsbridge. In the afternoon he had walked from the
-inn into the town, accompanied by Mr Cupples, and had there made certain
+inn into the town, accompanied by Mr. Cupples, and had there made certain
 purchases at a chemist's shop, conferred privately for some time with a
 photographer, sent off a reply-paid telegram, and made an enquiry at the
-telephone exchange. He had said but little about the case to Mr Cupples,
+telephone exchange. He had said but little about the case to Mr. Cupples,
 who seemed incurious on his side, and nothing at all about the results
 of his investigation or the steps he was about to take. After their
 return from Bishopsbridge, Trent had written a long dispatch for the
 Record and sent it to be telegraphed by the proud hands of the paper's
-local representative. He had afterwards dined with Mr Cupples, and had
+local representative. He had afterwards dined with Mr. Cupples, and had
 spent the rest of the evening in meditative solitude on the veranda.
 
 This morning as he scaled the cliff he told himself that he had never
@@ -2759,8 +2775,10 @@ So he saw her for an instant as he passed, and he did not turn. He knew
 suddenly who the woman must be, and it was as if a curtain of gloom were
 drawn between him and the splendour of the day.
 
-During breakfast at the hotel Mr Cupples found Trent little inclined to
-talk. He excused himself on the plea of a restless night. Mr Cupples, on
+***
+
+During breakfast at the hotel Mr. Cupples found Trent little inclined to
+talk. He excused himself on the plea of a restless night. Mr. Cupples, on
 the other hand, was in a state of bird-like alertness. The prospect
 of the inquest seemed to enliven him. He entertained Trent with a
 disquisition upon the history of that most ancient and once busy
@@ -2794,7 +2812,7 @@ so dark as it is in the United States.'
 'I thought,' said Trent listlessly, 'that Puritanism was about as strong
 there as the money-getting craze.'
 
-'Your remark,' answered Mr Cupples, with as near an approach to humour
+'Your remark,' answered Mr. Cupples, with as near an approach to humour
 as was possible to him, 'is not in the nature of a testimonial to what
 you call Puritanism--a convenient rather than an accurate term; for I
 need not remind you that it was invented to describe an Anglican party
@@ -2811,7 +2829,7 @@ left for the development of the holier purposes of humanity within us.
 Agricultural machinery has abolished the festival of the Harvest Home.
 Mechanical travel has abolished the inn, or all that was best in it. I
 need not multiply instances. The view I am expressing to you,' pursued
-Mr Cupples, placidly buttering a piece of toast, 'is regarded as
+Mr. Cupples, placidly buttering a piece of toast, 'is regarded as
 fundamentally erroneous by many of those who think generally as I
 do about the deeper concerns of life, but I am nevertheless firmly
 persuaded of its truth.'
@@ -2824,7 +2842,7 @@ inquest, I think. You ought to be off if you are to get back to the
 court in time. I have something to attend to there myself, so we might
 walk up together. I will just go and get my camera.'
 
-'By all means,' Mr Cupples answered; and they set off at once in the
+'By all means,' Mr. Cupples answered; and they set off at once in the
 ever-growing warmth of the morning. The roof of White Gables, a surly
 patch of dull red against the dark trees, seemed to harmonize with
 Trent's mood; he felt heavy, sinister, and troubled. If a blow must fall
@@ -2847,7 +2865,7 @@ porch was the lady in black.
 
 She saw them, and came gravely forward over the lawn, moving as Trent
 had known that she would move, erect and balanced, stepping lightly.
-When she welcomed him on Mr Cupples's presentation her eyes of
+When she welcomed him on Mr. Cupples's presentation her eyes of
 golden-flecked brown observed him kindly. In her pale composure, worn as
 the mask of distress, there was no trace of the emotion that had
 seemed a halo about her head on the ledge of the cliff. She spoke the
@@ -2858,7 +2876,7 @@ Cupples she turned her eyes on Trent again.
 succeed?'
 
 He made his mind up as the words left her lips. He said, 'I believe I
-shall do so, Mrs Manderson. When I have the case sufficiently complete
+shall do so, Mrs. Manderson. When I have the case sufficiently complete
 I shall ask you to let me see you and tell you about it. It may be
 necessary to consult you before the facts are published.'
 
@@ -2881,7 +2899,7 @@ to put a question or two to yourself--nothing that you would rather not
 answer, I think. May I?'
 
 She glanced at him wearily. 'It would be stupid of me to refuse, Ask
-your questions, Mr Trent.' 'It's only this,' said Trent hurriedly. 'We
+your questions, Mr. Trent.' 'It's only this,' said Trent hurriedly. 'We
 know that your husband lately drew an unusually large sum of ready money
 from his London bankers, and was keeping it here. It is here now, in
 fact. Have you any idea why he should have done that?'
@@ -2902,10 +2920,10 @@ had by me. It was nearly thirty pounds.'
 
 'And he did not tell you why he wanted it?'
 
-'No. He put it in his pocket, and then said that Mr Marlowe had
+'No. He put it in his pocket, and then said that Mr. Marlowe had
 persuaded him to go for a run in the motor by moonlight, and he thought
 it might help him to sleep. He had been sleeping badly, as perhaps you
-know. Then he went off with Mr Marlowe. I thought it odd he should need
+know. Then he went off with Mr. Marlowe. I thought it odd he should need
 money on Sunday night, but I soon forgot about it. I never remembered it
 again until now.'
 
@@ -2965,7 +2983,7 @@ wanted to have word from this man Harris--'
 'Nobody knows. Even Bunner never heard of him, and can't imagine what
 the business in hand was. All I know is that when I went up to London
 last week to attend to various things I booked a deck-cabin, at
-Manderson's request, for a Mr George Harris on the boat that sailed
+Manderson's request, for a Mr. George Harris on the boat that sailed
 on Monday. It seems that Manderson suddenly found he wanted news from
 Harris which presumably was of a character too secret for the telegraph;
 and there was no train that served; so I was sent off as you know.'
@@ -2975,7 +2993,7 @@ the other gravely, 'There is one thing I may tell you,' he said quietly,
 'that I don't think you know. Martin the butler caught a few words at
 the end of your conversation with Manderson in the orchard before you
 started with him in the car. He heard him say, "If Harris is there,
-every moment is of importance." Now, Mr Marlowe, you know my business
+every moment is of importance." Now, Mr. Marlowe, you know my business
 here. I am sent to make enquiries, and you mustn't take offence. I want
 to ask you if, in the face of that sentence, you will repeat that you
 know nothing of what the business was.'
@@ -2997,7 +3015,7 @@ The young man made a gesture of helplessness. 'Why? I can guess no
 better than you.'
 
 'Why,' muttered Trent as if to himself, gazing on the ground, 'did he
-conceal it--from Mrs Manderson?' He looked up at Marlowe.
+conceal it--from Mrs. Manderson?' He looked up at Marlowe.
 
 'And from Martin,' the other amended coolly. 'He was told the same
 thing.'
@@ -3006,7 +3024,7 @@ With a sudden movement of his head Trent seemed to dismiss the subject.
 He drew from his breast-pocket a letter-case, and thence extracted two
 small leaves of clean, fresh paper.
 
-'Just look at these two slips, Mr Marlowe,' he said. 'Did you ever
+'Just look at these two slips, Mr. Marlowe,' he said. 'Did you ever
 see them before? Have you any idea where they come from?' he added as
 Marlowe took one in each hand and examined them curiously.
 
@@ -3020,22 +3038,22 @@ house, of course, might have such a diary without your having seen it.
 But I didn't much expect you would be able to identify the leaves--in
 fact, I should have been surprised if you had.'
 
-He stopped speaking as Mrs Manderson came towards them. 'My uncle thinks
+He stopped speaking as Mrs. Manderson came towards them. 'My uncle thinks
 we should be going now,' she said.
 
-'I think I will walk on with Mr Bunner,' Mr Cupples said as he joined
+'I think I will walk on with Mr. Bunner,' Mr. Cupples said as he joined
 them. 'There are certain business matters that must be disposed of as
 soon as possible. Will you come on with these two gentlemen, Mabel? We
 will wait for you before we reach the place.'
 
-Trent turned to her. 'Mrs Manderson will excuse me, I hope,' he said.
+Trent turned to her. 'Mrs. Manderson will excuse me, I hope,' he said.
 'I really came up this morning in order to look about me here for
 some indications I thought I might possibly find. I had not thought of
 attending the--the court just yet.'
 
-She looked at him with eyes of perfect candour. 'Of course, Mr Trent.
+She looked at him with eyes of perfect candour. 'Of course, Mr. Trent.
 Please do exactly as you wish. We are all relying upon you. If you will
-wait a few moments, Mr Marlowe, I shall be ready.'
+wait a few moments, Mr. Marlowe, I shall be ready.'
 
 She entered the house. Her uncle and the American had already strolled
 towards the gate.
@@ -3112,7 +3130,7 @@ knew Trent by sight assured the rest that he was not in the court.
 The identity of the dead man was proved by his wife, the first witness
 called, from whom the coroner, after some enquiry into the health and
 circumstances of the deceased, proceeded to draw an account of the last
-occasion on which she had seen her husband alive. Mrs Manderson was
+occasion on which she had seen her husband alive. Mrs. Manderson was
 taken through her evidence by the coroner with the sympathy which every
 man felt for that dark figure of grief. She lifted her thick veil before
 beginning to speak, and the extreme paleness and unbroken composure of
@@ -3152,9 +3170,9 @@ he said, because--' she stopped with a little appearance of confusion.
 affairs,' answered the witness, raising her chin with a faint touch of
 defiance. 'He did not--did not think they would interest me, and as a
 rule referred to them as little as possible. That was why I was rather
-surprised when he told me that he had sent Mr Marlowe to Southampton
+surprised when he told me that he had sent Mr. Marlowe to Southampton
 to bring back some important information from a man who was leaving for
-Paris by the next day's boat. He said that Mr Marlowe could do it quite
+Paris by the next day's boat. He said that Mr. Marlowe could do it quite
 easily if he had no accident. He said that he had started in the car,
 and then walked back home a mile or so, and felt all the better for it.'
 
@@ -3176,7 +3194,7 @@ silently waited for her dismissal.
 
 But it was not to be yet.
 
-'Mrs Manderson.' The coroner's voice was sympathetic, but it had a hint
+'Mrs. Manderson.' The coroner's voice was sympathetic, but it had a hint
 of firmness in it now. 'The question I am going to put to you must, in
 these sad circumstances, be a painful one; but it is my duty to ask it.
 Is it the fact that your relations with your late husband had not been,
@@ -3206,12 +3224,12 @@ you and your husband, ma'am?'
 
 'Never.' The word was colourlessly spoken; but every one felt that a
 crass misunderstanding of the possibilities of conduct in the case of a
-person like Mrs Manderson had been visited with some severity.
+person like Mrs. Manderson had been visited with some severity.
 
 Did she know, the coroner asked, of any other matter which might have
 been preying upon her husband's mind recently?
 
-Mrs Manderson knew of none whatever. The coroner intimated that her
+Mrs. Manderson knew of none whatever. The coroner intimated that her
 ordeal was at an end, and the veiled lady made her way to the door. The
 general attention, which followed her for a few moments, was now eagerly
 directed upon Martin, whom the coroner had proceeded to call.
@@ -3220,7 +3238,7 @@ It was at this moment that Trent appeared at the doorway and edged his
 way into the great room. But he did not look at Martin. He was observing
 the well-balanced figure that came quickly toward him along an opening
 path in the crowd, and his eye was gloomy. He started, as he stood aside
-from the door with a slight bow, to hear Mrs Manderson address him by
+from the door with a slight bow, to hear Mrs. Manderson address him by
 name in a low voice. He followed her a pace or two into the hall.
 
 'I wanted to ask you,' she said in a voice now weak and oddly broken,
@@ -3255,10 +3273,12 @@ you.... I thought I might,' she ended queerly, with a little tired
 smile; and Trent took himself away, his hand still quivering from the
 cool touch of her fingers.
 
+***
+
 The testimony of the servants and of the finder of the body brought
 nothing new to the reporters' net. That of the police was as colourless
 and cryptic as is usual at the inquest stage of affairs of the kind.
-Greatly to the satisfaction of Mr Bunner, his evidence afforded the
+Greatly to the satisfaction of Mr. Bunner, his evidence afforded the
 sensation of the day, and threw far into the background the interesting
 revelation of domestic difficulty made by the dead man's wife. He
 told the court in substance what he had already told Trent. The flying
@@ -3307,7 +3327,7 @@ been within the knowledge of some of you that in the industrial world of
 America the discontent of labour often proceeds to lengths of which
 we in England happily know nothing. I have interrogated the witness
 somewhat fully upon this. At the same time, gentlemen, I am by no means
-suggesting that Mr Bunner's personal conjecture as to the cause of death
+suggesting that Mr. Bunner's personal conjecture as to the cause of death
 can fitly be adopted by you. That is emphatically not the case. What his
 evidence does is to raise two questions for your consideration. First,
 can it be said that the deceased was to any extent in the position of a
@@ -3330,7 +3350,7 @@ CHAPTER IX: A Hot Scent
 
 'Come in!' called Trent.
 
-Mr Cupples entered his sitting-room at the hotel. It was the early
+Mr. Cupples entered his sitting-room at the hotel. It was the early
 evening of the day on which the coroner's jury, without leaving the box,
 had pronounced the expected denunciation of a person or persons unknown.
 Trent, with a hasty glance upward, continued his intent study of what
@@ -3344,16 +3364,16 @@ pretty good negative,' he went on, holding it up to the light with his
 head at the angle of discriminating judgement. 'Washed enough now, I
 think. Let us leave it to dry, and get rid of all this mess.'
 
-Mr Cupples, as the other busily cleared the table of a confusion of
+Mr. Cupples, as the other busily cleared the table of a confusion of
 basins, dishes, racks, boxes, and bottles, picked up first one and then
 another of the objects and studied them with innocent curiosity.
 
-'That is called hypo-eliminator,' said Trent, as Mr Cupples uncorked and
+'That is called hypo-eliminator,' said Trent, as Mr. Cupples uncorked and
 smelt at one of the bottles. 'Very useful when you're in a hurry with
 a negative. I shouldn't drink it, though, all the same. It eliminates
 sodium hypophosphite, but I shouldn't wonder if it would eliminate human
 beings too.' He found a place for the last of the litter on the crowded
-mantel-shelf, and came to sit before Mr Cupples on the table. 'The great
+mantel-shelf, and came to sit before Mr. Cupples on the table. 'The great
 thing about a hotel sitting-room is that its beauty does not distract
 the mind from work. It is no place for the mayfly pleasures of a mind at
 ease. Have you ever been in this room before, Cupples? I have, hundreds
@@ -3367,7 +3387,7 @@ Banbury. I do all my best work here. This afternoon, for instance, since
 the inquest, I have finished several excellent negatives. There is a
 very good dark room downstairs.'
 
-'The inquest--that reminds me,' said Mr Cupples, who knew that this sort
+'The inquest--that reminds me,' said Mr. Cupples, who knew that this sort
 of talk in Trent meant the excitement of action, and was wondering what
 he could be about. 'I came in to thank you, my dear fellow, for looking
 after Mabel this morning. I had no idea she was going to feel ill after
@@ -3398,7 +3418,7 @@ the inquest, and I dare say some people would think it rather an odd
 proceeding if they knew. Now there remains one object on the board. Can
 you tell me, without touching it, what it is?'
 
-'Certainly I can,' said Mr Cupples, peering at it with great interest.
+'Certainly I can,' said Mr. Cupples, peering at it with great interest.
 'It is an ordinary glass bowl. It looks like a finger-bowl. I see
 nothing odd about it,' he added after some moments of close scrutiny.
 
@@ -3413,7 +3433,7 @@ Perfect! Sir Edward Henry himself could not have handled the powder
 better. You have done this before, Cupples, I can see. You are an old
 hand.'
 
-'I really am not,' said Mr Cupples seriously, as Trent returned the
+'I really am not,' said Mr. Cupples seriously, as Trent returned the
 fallen powder to the bottle. 'I assure you it is all a complete mystery
 to me. What did I do then?'
 
@@ -3421,7 +3441,7 @@ to me. What did I do then?'
 brush. Now look at it again. You saw nothing odd about it before. Do you
 see anything now?'
 
-Mr Cupples peered again. 'How curious!' he said. 'Yes, there are two
+Mr. Cupples peered again. 'How curious!' he said. 'Yes, there are two
 large grey finger-marks on the bowl. They were not there before.'
 
 'I am Hawkshaw the detective,' observed Trent. 'Would it interest you to
@@ -3433,8 +3453,8 @@ and sometimes--in moments of great anxiety, for instance, Cupples--it
 is very moist. It leaves a mark on any cold smooth surface it may touch.
 That bowl was moved by somebody with a rather moist hand quite lately.'
 He sprinkled the powder again. 'Here on the other side, you see, is the
-thumb-mark very good impressions all of them.' He spoke without raising
-his voice, but Mr Cupples could perceive that he was ablaze with
+thumb-mark--very good impressions all of them.' He spoke without raising
+his voice, but Mr. Cupples could perceive that he was ablaze with
 excitement as he stared at the faint grey marks. 'This one should be the
 index finger. I need not tell a man of your knowledge of the world that
 the pattern of it is a single-spiral whorl, with deltas symmetrically
@@ -3453,7 +3473,7 @@ I have photographed on this negative were made by the same hand.'
 Cupples, wide-eyed.
 
 'I found them on the inside of the left-hand leaf of the front window
-in Mrs Manderson's bedroom. As I could not bring the window with me, I
+in Mrs. Manderson's bedroom. As I could not bring the window with me, I
 photographed them, sticking a bit of black paper on the other side of
 the glass for the purpose. The bowl comes from Manderson's room. It is
 the bowl in which his false teeth were placed at night. I could bring
@@ -3462,7 +3482,7 @@ that away, so I did.'
 'But those cannot be Mabel's finger-marks.'
 
 'I should think not!' said Trent with decision. 'They are twice the size
-of any print Mrs Manderson could make.'
+of any print Mrs. Manderson could make.'
 
 'Then they must be her husband's.'
 
@@ -3475,7 +3495,7 @@ fingers.' He carefully took up with a pair of tweezers one of the leaves
 cut from his diary, and held it out for the other to examine. No marks
 appeared on the leaf. He tilted some of the powder out upon one surface
 of the paper, then, turning it over, upon the other; then shook the leaf
-gently to rid it of the loose powder. He held it out to Mr Cupples in
+gently to rid it of the loose powder. He held it out to Mr. Cupples in
 silence. On one side of the paper appeared unmistakably, clearly printed
 in black, the same two finger-prints that he had already seen on the
 bowl and on the photographic plate. He took up the bowl and compared
@@ -3486,7 +3506,7 @@ his hand.
 'Same man, you see,' Trent said with a short laugh. 'I felt that it must
 be so, and now I know.' He walked to the window and looked out. 'Now
 I know,' he repeated in a low voice, as if to himself. His tone was
-bitter. Mr Cupples, understanding nothing, stared at his motionless back
+bitter. Mr. Cupples, understanding nothing, stared at his motionless back
 for a few moments.
 
 'I am still completely in the dark,' he ventured presently. 'I have
@@ -3507,12 +3527,12 @@ other with a hard and darkened face, and struck the table with his hand.
 against hope that I was wrong about the fact. I may still be wrong in
 the surmise that I base upon that fact. There is only one way of finding
 out that is open to me, and I must nerve myself to take it.' He smiled
-suddenly at Mr Cupples's face of consternation. 'All right--I'm not
+suddenly at Mr. Cupples's face of consternation. 'All right--I'm not
 going to be tragic any more, and I'll tell you all about it when I can.
 Look here, I'm not half through my game with the powder-bottles yet.'
 
 He drew one of the defamed chairs to the table and sat down to test
-the broad ivory blade of the paper knife. Mr Cupples, swallowing his
+the broad ivory blade of the paper knife. Mr. Cupples, swallowing his
 amazement, bent forward in an attitude of deep interest and handed Trent
 the bottle of lamp-black.
 
@@ -3521,7 +3541,7 @@ the bottle of lamp-black.
 
 CHAPTER X: The Wife of Dives
 
-Mrs Manderson stood at the window of her sitting-room at White Gables
+Mrs. Manderson stood at the window of her sitting-room at White Gables
 gazing out upon a wavering landscape of fine rain and mist. The weather
 had broken as it seldom does in that part in June. White wreathings
 drifted up the fields from the sullen sea; the sky was an unbroken grey
@@ -3532,10 +3552,10 @@ bereaved, alone, and without a purpose in life.
 
 There was a knock, and she called 'Come in,' drawing herself up with
 an unconscious gesture that always came when she realized that the
-weariness of the world had been gaining upon her spirit. Mr Trent had
+weariness of the world had been gaining upon her spirit. Mr. Trent had
 called, the maid said; he apologized for coming at such an early
-hour, but hoped that Mrs Manderson would see him on a matter of urgent
-importance. Mrs Manderson would see Mr Trent. She walked to a mirror,
+hour, but hoped that Mrs. Manderson would see him on a matter of urgent
+importance. Mrs. Manderson would see Mr. Trent. She walked to a mirror,
 looked into the olive face she saw reflected there, shook her head at
 herself with the flicker of a grimace, and turned to the door as Trent
 was shown in.
@@ -3548,18 +3568,18 @@ smile of fixed good-humour.
 'May I come to the point at once?' he said, when she had given him her
 hand. 'There is a train I ought to catch at Bishopsbridge at twelve
 o'clock, but I cannot go until I have settled this thing, which concerns
-you only, Mrs Manderson. I have been working half the night and thinking
+you only, Mrs. Manderson. I have been working half the night and thinking
 the rest; and I know now what I ought to do.'
 
 'You look wretchedly tired,' she said kindly. 'Won't you sit down? This
 is a very restful chair. Of course it is about this terrible business
 and your work as correspondent. Please ask me anything you think I can
-properly tell you, Mr Trent. I know that you won't make it worse for me
+properly tell you, Mr. Trent. I know that you won't make it worse for me
 than you can help in doing your duty here. If you say you must see me
 about something, I know it must be because, as you say, you ought to do
 it.'
 
-'Mrs Manderson,' said Trent, slowly measuring his words, 'I won't make
+'Mrs. Manderson,' said Trent, slowly measuring his words, 'I won't make
 it worse for you than I can help. But I am bound to make it bad for
 you--only between ourselves, I hope. As to whether you can properly tell
 me what I shall ask you, you will decide that; but I tell you this on my
@@ -3589,7 +3609,7 @@ as she regarded him, her hands clasped before her, and her shoulders
 drawn back in a pose of rigid calm. She looked precisely as she had
 looked at the inquest.
 
-'I understand quite well,' said Mrs Manderson in a low voice. She drew
+'I understand quite well,' said Mrs. Manderson in a low voice. She drew
 a deep breath, and went on: 'I don't know what dreadful thing you have
 found out, or what the possibility that has occurred to you can be, but
 it was good, it was honourable of you to come to me about it. Now will
@@ -3607,7 +3627,7 @@ that you had no idea at all of the reason why your late husband had
 changed his attitude toward you, and become mistrustful and reserved,
 during the last few months of his life?'
 
-Mrs Manderson's dark brows lifted and her eyes flamed; she quickly rose
+Mrs. Manderson's dark brows lifted and her eyes flamed; she quickly rose
 from her chair. Trent got up at the same moment, and took his envelope
 from the table; his manner said that he perceived the interview to be at
 an end. But she held up a hand, and there was colour in her cheeks and
@@ -3623,7 +3643,7 @@ She walked to the window, and he stood miserably watching the slight
 movement of her shoulders until it subsided. Then with face averted,
 looking out on the dismal weather, she spoke at last clearly.
 
-'Mr Trent,' she said, 'you inspire confidence in people, and I feel that
+'Mr. Trent,' she said, 'you inspire confidence in people, and I feel that
 things which I don't want known or talked about are safe with you. And
 I know you must have a very serious reason for doing what you are doing,
 though I don't know what it is. I suppose it would be assisting justice
@@ -3654,7 +3674,7 @@ music and books and unpractical ideas, always enjoying myself in my own
 way. But he had really reckoned on me as a wife who would do the honours
 of his position in the world; and I found I couldn't.'
 
-Mrs Manderson had talked herself into a more emotional mood than she had
+Mrs. Manderson had talked herself into a more emotional mood than she had
 yet shown to Trent. Her words flowed freely, and her voice had begun to
 ring and give play to a natural expressiveness that must hitherto have
 been dulled, he thought, by the shock and self-restraint of the past few
@@ -3733,7 +3753,7 @@ at last it was gone.
 She sank into the corner of a sofa by the window, as though relaxing
 her body after an effort. For a few moments both were silent. Trent
 was hastily sorting out a tangle of impressions. He was amazed at
-the frankness of Mrs Manderson's story. He was amazed at the vigorous
+the frankness of Mrs. Manderson's story. He was amazed at the vigorous
 expressiveness in her telling of it. In this vivid being, carried away
 by an impulse to speak, talking with her whole personality, he had seen
 the real woman in a temper of activity, as he had already seen the real
@@ -3758,7 +3778,7 @@ was all very fine; but it would not do.
 'I feel as if I had led you into saying more than you meant to say,
 or than I wanted to learn,' he said slowly. 'But there is one brutal
 question which is the whole point of my enquiry.' He braced his frame
-like one preparing for a plunge into cold waters. 'Mrs Manderson, will
+like one preparing for a plunge into cold waters. 'Mrs. Manderson, will
 you assure me that your husband's change toward you had nothing to do
 with John Marlowe?'
 
@@ -3798,7 +3818,7 @@ the testing of virtue and the power of the will.
 
 CHAPTER XI: Hitherto Unpublished
 
-My Dear Molloy:---This is in case I don't find you at your office. I
+My Dear Molloy:--This is in case I don't find you at your office. I
 have found out who killed Manderson, as this dispatch will show. This
 was my problem; yours is to decide what use to make of it. It definitely
 charges an unsuspected person with having a hand in the crime, and
@@ -3809,9 +3829,11 @@ publish it then; and you may find it possible to make some use or other
 before then of the facts I have given. That is your affair. Meanwhile,
 will you communicate with Scotland Yard, and let them see what I have
 written? I have done with the Manderson mystery, and I wish to God I had
-never touched it. Here follows my dispatch.--P.T.
+never touched it. Here follows my dispatch.  P.T.
 
-Marlstone, June 16th. I begin this, my third and probably my final
+Marlstone, June 16th.
+
+I begin this, my third and probably my final
 dispatch to the Record upon the Manderson murder, with conflicting
 feelings. I have a strong sense of relief, because in my two previous
 dispatches I was obliged, in the interests of justice, to withhold facts
@@ -3880,7 +3902,7 @@ ingenuity had been directed to concealing.
 
 I have already described Manderson's bedroom, the rigorous simplicity
 of its furnishing, contrasted so strangely with the multitude of clothes
-and shoes, and the manner of its communication with Mrs Manderson's
+and shoes, and the manner of its communication with Mrs. Manderson's
 room. On the upper of the two long shelves on which the shoes were
 ranged I found, where I had been told I should find them, the pair of
 patent leather shoes which Manderson had worn on the evening before his
@@ -4012,9 +4034,9 @@ And there my thinking was interrupted by the realization of a thing
 that had escaped me before. So strong had been the influence of the
 unquestioned assumption that it was Manderson who was present that
 night, that neither I nor, as far as I know, any one else had noted the
-point. Martin had not seen the man's face, nor had Mrs Manderson.
+point. Martin had not seen the man's face, nor had Mrs. Manderson.
 
-Mrs Manderson (judging by her evidence at the inquest, of which, as
+Mrs. Manderson (judging by her evidence at the inquest, of which, as
 I have said, I had a full report made by the Record stenographers in
 court) had not seen the man at all. She hardly could have done, as I
 shall show presently. She had merely spoken with him as she lay half
@@ -4062,12 +4084,12 @@ to the door. I found that to a person lying in her bed, which stood
 with its head to the wall a little beyond the door, nothing was visible
 through the doorway but one of the cupboards by Manderson's bed-head.
 Moreover, since this man knew the ways of the household, he would think
-it most likely that Mrs Manderson was asleep. Another point with him, I
+it most likely that Mrs. Manderson was asleep. Another point with him, I
 guessed, might have been the estrangement between the husband and wife,
 which they had tried to cloak by keeping up, among other things, their
 usual practice of sleeping in connected rooms, but which was well known
 to all who had anything to do with them. He would hope from this that
-if Mrs Manderson heard him, she would take no notice of the supposed
+if Mrs. Manderson heard him, she would take no notice of the supposed
 presence of her husband.
 
 So, pursuing my hypothesis, I followed the unknown up to the bedroom,
@@ -4076,7 +4098,7 @@ breath that I thought of the hideous shock with which he must have heard
 the sound of all others he was dreading most: the drowsy voice from the
 adjoining room.
 
-What Mrs Manderson actually said, she was unable to recollect at the
+What Mrs. Manderson actually said, she was unable to recollect at the
 inquest. She thinks she asked her supposed husband whether he had had a
 good run in the car. And now what does the unknown do? Here, I think, we
 come to a supremely significant point. Not only does he--standing rigid
@@ -4120,7 +4142,7 @@ Reviewing what was known to me, or might almost with certainty be
 surmised, about that person, I set down the following five conclusions:
 
 (1.) He had been in close relations with the dead man. In his acting
-before Martin and his speaking to Mrs Manderson he had made no mistake.
+before Martin and his speaking to Mrs. Manderson he had made no mistake.
 
 (2.) He was of a build not unlike Manderson's, especially as to height
 and breadth of shoulder, which mainly determine the character of the
@@ -4145,7 +4167,7 @@ I proceed to give, in an order corresponding with the numbered
 paragraphs above, such relevant facts as I was able to obtain about Mr
 John Marlowe, from himself and other sources:
 
-(1.) He had been Mr Manderson's private secretary, upon a footing of
+(1.) He had been Mr. Manderson's private secretary, upon a footing of
 great intimacy, for nearly four years.
 
 (2.) The two men were nearly of the same height, about five feet eleven
@@ -4166,7 +4188,7 @@ SOME TIME PAST DECADE VERY URGENT AND CONFIDENTIAL.
 My friend replied in the following telegram, which reached me next
 morning (the morning of the inquest):
 
-MARLOWE WAS MEMBER O.U.D.S FOR THREE YEARS AND PRESIDENT 19--PLAYED
+MARLOWE WAS MEMBER O.U.D.S FOR THREE YEARS AND PRESIDENT 19-- PLAYED
 BARDOLPH CLEON AND MERCUTIO EXCELLED IN CHARACTER ACTING AND IMITATIONS
 IN GREAT DEMAND AT SMOKERS WAS HERO OF SOME HISTORIC HOAXES.
 
@@ -4183,10 +4205,12 @@ opportunities for knowing the domestic life of the Mandersons in detail.
 (5.) I ascertained beyond doubt that Marlowe arrived at a hotel in
 Southampton on the Monday morning at 6.30, and there proceeded to carry
 out the commission which, according to his story, and according to the
-statement made to Mrs Manderson in the bedroom by the false Manderson,
+statement made to Mrs. Manderson in the bedroom by the false Manderson,
 had been entrusted to him by his employer. He had then returned in the
 car to Marlstone, where he had shown great amazement and horror at the
 news of the murder.
+
+***
 
 These, I say, are the relevant facts about Marlowe. We must now examine
 fact number 5 (as set out above) in connection with conclusion number 5
@@ -4264,7 +4288,7 @@ photograph two fresh fingerprints, very large and distinct, on the
 polished front of the right-hand top drawer of the chest of drawers
 in Manderson's bedroom; five more (among a number of smaller and less
 recent impressions made by other hands) on the glasses of the French
-window in Mrs Manderson's room, a window which always stood open at
+window in Mrs. Manderson's room, a window which always stood open at
 night with a curtain before it; and three more upon the glass bowl in
 which Manderson's dental plate had been found lying.
 
@@ -4285,14 +4309,14 @@ made on the window-glasses, and the three on the bowl, were made by the
 left hand of Marlowe; that the remaining three on the window and the two
 on the drawer were made by his right hand.
 
-By eight o'clock I had made at the establishment of Mr H. T. Copper,
+By eight o'clock I had made at the establishment of Mr. H. T. Copper,
 photographer, of Bishopsbridge, and with his assistance, a dozen
 enlarged prints of the finger-marks of Marlowe, clearly showing the
 identity of those which he unknowingly made in my presence and those
 left upon articles in his bedroom, with those found by me as I have
 described, and thus establishing the facts that Marlowe was recently in
 Manderson's bedroom, where he had in the ordinary way no business,
-and in Mrs Manderson's room, where he had still less. I hope it may be
+and in Mrs. Manderson's room, where he had still less. I hope it may be
 possible to reproduce these prints for publication with this dispatch.
 
 At nine o'clock I was back in my room at the hotel and sitting down to
@@ -4302,8 +4326,8 @@ the impersonator of Manderson, being in Manderson's bedroom, told Mrs
 Manderson, as he had already told Martin, that Marlowe was at that
 moment on his way to Southampton; that having made his dispositions in
 the room, he switched off the light, and lay in the bed in his clothes;
-that he waited until he was assured that Mrs Manderson was asleep; that
-he then arose and stealthily crossed Mrs Manderson's bedroom in his
+that he waited until he was assured that Mrs. Manderson was asleep; that
+he then arose and stealthily crossed Mrs. Manderson's bedroom in his
 stocking feet, having under his arm the bundle of clothing and shoes for
 the body; that he stepped behind the curtain, pushing the doors of
 the window a little further open with his hands, strode over the iron
@@ -4396,7 +4420,7 @@ believed, at his first meeting with Marlowe; his mind would have noted
 automatically that such evident strength and grace, with the sort of
 looks and manners that the tall young man possessed, might go far with
 any woman of unfixed affections. And the connection of this with what
-Mr Cupples had told him of the Mandersons' married life must have formed
+Mr. Cupples had told him of the Mandersons' married life must have formed
 itself in the unconscious depths of his mind. Certainly it had presented
 itself as an already established thing when he began, after satisfying
 himself of the identity of the murderer, to cast about for the motive
@@ -4469,6 +4493,8 @@ as well were hidden behind that good and straight and gentle seeming?
 
 These thoughts would scarcely leave him when he was alone.
 
+***
+
 Trent served Sir James, well earning his pay for six months, and then
 returned to Paris where he went to work again with a better heart. His
 powers had returned to him, and he began to live more happily than
@@ -4510,7 +4536,7 @@ high spirits.
 
 One morning in June, as he descended the slope of the Rue des Martyrs,
 he saw approaching a figure that he remembered. He glanced quickly
-round, for the thought of meeting Mr Bunner again was unacceptable. For
+round, for the thought of meeting Mr. Bunner again was unacceptable. For
 some time he had recognized that his wound was healing under the spell
 of creative work; he thought less often of the woman he loved, and with
 less pain. He would not have the memory of those three days reopened.
@@ -4519,7 +4545,7 @@ But the straight and narrow thoroughfare offered no refuge, and the
 American saw him almost at once.
 
 His unforced geniality made Trent ashamed, for he had liked the man.
-They sat long over a meal, and Mr Bunner talked. Trent listened to
+They sat long over a meal, and Mr. Bunner talked. Trent listened to
 him, now that he was in for it, with genuine pleasure, now and then
 contributing a question or remark. Besides liking his companion, he
 enjoyed his conversation, with its unending verbal surprises, for its
@@ -4533,7 +4559,7 @@ been away from England for a year, that Marlowe had shortly after the
 death of Manderson entered his father's business, which was now again in
 a flourishing state, and had already come to be practically in control
 of it. They had kept up their intimacy, and were even now planning a
-holiday for the summer. Mr Bunner spoke with generous admiration of his
+holiday for the summer. Mr. Bunner spoke with generous admiration of his
 friend's talent for affairs. 'Jack Marlowe has a natural big head,' he
 declared, 'and if he had more experience, I wouldn't want to have him up
 against me. He would put a crimp in me every time.'
@@ -4541,7 +4567,7 @@ against me. He would put a crimp in me every time.'
 As the American's talk flowed on, Trent listened with a slowly growing
 perplexity. It became more and more plain that something was very wrong
 in his theory of the situation; there was no mention of its central
-figure. Presently Mr Bunner mentioned that Marlowe was engaged to
+figure. Presently Mr. Bunner mentioned that Marlowe was engaged to
 be married to an Irish girl, whose charms he celebrated with native
 enthusiasm.
 
@@ -4549,14 +4575,14 @@ Trent clasped his hands savagely together beneath the table. What could
 have happened? His ideas were sliding and shifting. At last he forced
 himself to put a direct question.
 
-Mr Bunner was not very fully informed. He knew that Mrs Manderson had
+Mr. Bunner was not very fully informed. He knew that Mrs. Manderson had
 left England immediately after the settlement of her husband's affairs,
 and had lived for some time in Italy. She had returned not long ago to
 London, where she had decided not to live in the house in Mayfair,
 and had bought a smaller one in the Hampstead neighbourhood; also, he
 understood, one somewhere in the country. She was said to go but little
 into society. 'And all the good hard dollars just waiting for some one
-to spraddle them around,' said Mr Bunner, with a note of pathos in his
+to spraddle them around,' said Mr. Bunner, with a note of pathos in his
 voice. 'Why, she has money to burn--money to feed to the birds--and
 nothing doing. The old man left her more than half his wad. And think of
 the figure she might make in the world. She is beautiful, and she is the
@@ -4583,12 +4609,14 @@ In twenty-four hours his feeble roots in Paris had been torn out. He
 was looking over a leaden sea at the shining fortress-wall of the Dover
 cliffs.
 
+***
+
 But though he had instinctively picked out the lines of a set purpose
 from among the welter of promptings in his mind, he found it delayed at
 the very outset.
 
-He had decided that he must first see Mr Cupples, who would be in a
-position to tell him much more than the American knew. But Mr Cupples
+He had decided that he must first see Mr. Cupples, who would be in a
+position to tell him much more than the American knew. But Mr. Cupples
 was away on his travels, not expected to return for a month; and Trent
 had no reasonable excuse for hastening his return. Marlowe he would not
 confront until he had tried at least to reconnoitre the position. He
@@ -4597,7 +4625,7 @@ Manderson's house in Hampstead; he could not enter it, and the thought
 of the possibility of being seen by her lurking in its neighbourhood
 brought the blood to his face.
 
-He stayed at an hotel, took a studio, and while he awaited Mr Cupples's
+He stayed at an hotel, took a studio, and while he awaited Mr. Cupples's
 return attempted vainly to lose himself in work.
 
 At the end of a week he had an idea that he acted upon with eager
@@ -4632,19 +4660,19 @@ the box.
 CHAPTER XIII: Eruption
 
 The following two months were a period in Trent's life that he has never
-since remembered without shuddering. He met Mrs Manderson half a dozen
+since remembered without shuddering. He met Mrs. Manderson half a dozen
 times, and each time her cool friendliness, a nicely calculated mean
 between mere acquaintance and the first stage of intimacy, baffled and
 maddened him. At the opera he had found her, to his further amazement,
-with a certain Mrs Wallace, a frisky matron whom he had known from
-childhood. Mrs Manderson, it appeared, on her return from Italy, had
+with a certain Mrs. Wallace, a frisky matron whom he had known from
+childhood. Mrs. Manderson, it appeared, on her return from Italy, had
 somehow wandered into circles to which he belonged by nurture and
 disposition. It came, she said, of her having pitched her tent in their
 hunting-grounds; several of his friends were near neighbours. He had
 a dim but horrid recollection of having been on that occasion unlike
 himself, ill at ease, burning in the face, talking with idiot loquacity
 of his adventures in the Baltic provinces, and finding from time to time
-that he was addressing himself exclusively to Mrs Wallace. The other
+that he was addressing himself exclusively to Mrs. Wallace. The other
 lady, when he joined them, had completely lost the slight appearance
 of agitation with which she had stopped him in the vestibule. She had
 spoken pleasantly to him of her travels, of her settlement in London,
@@ -4682,11 +4710,11 @@ great. He no longer burned to know the truth; he wanted nothing to
 confirm his fixed internal conviction by faith, that he had blundered,
 that he had misread the situation, misinterpreted her tears, written
 himself down a slanderous fool. He speculated no more on Marlowe's
-motive in the killing of Manderson. Mr Cupples returned to London, and
+motive in the killing of Manderson. Mr. Cupples returned to London, and
 Trent asked him nothing. He knew now that he had been right in those
 words--Trent remembered them for the emphasis with which they were
 spoken--'So long as she considered herself bound to him... no power on
-earth could have persuaded her.' He met Mrs Manderson at dinner at her
+earth could have persuaded her.' He met Mrs. Manderson at dinner at her
 uncle's large and tomb-like house in Bloomsbury, and there he conversed
 most of the evening with a professor of archaeology from Berlin.
 
@@ -4695,6 +4723,8 @@ His other resolution was that he would not be with her alone.
 But when, a few days after, she wrote asking him to come and see her on
 the following afternoon, he made no attempt to excuse himself. This was
 a formal challenge.
+
+***
 
 While she celebrated the rites of tea, and for some little time
 thereafter, she joined with such natural ease in his slightly fevered
@@ -4725,7 +4755,7 @@ had just ended. 'I think I knew it the first time I saw you.' Then
 understanding of his own words came to him, and turned him rigid. For
 the first time the past had been invoked.
 
-There was a short silence. Mrs Manderson looked at Trent, then hastily
+There was a short silence. Mrs. Manderson looked at Trent, then hastily
 looked away. Colour began to rise in her cheeks, and she pursed her lips
 as if for whistling. Then with a defiant gesture of the shoulders which
 he remembered she rose suddenly from the piano and placed herself in a
@@ -4733,7 +4763,7 @@ chair opposite to him.
 
 'That speech of yours will do as well as anything,' she began slowly,
 looking at the point of her shoe, 'to bring us to what I wanted to say.
-I asked you here today on purpose, Mr Trent, because I couldn't bear it
+I asked you here today on purpose, Mr. Trent, because I couldn't bear it
 any longer. Ever since the day you left me at White Gables I have been
 saying to myself that it didn't matter what you thought of me in that
 affair; that you were certainly not the kind of man to speak to others
@@ -4745,7 +4775,7 @@ and met his gaze calmly. Trent, with a completely expressionless face,
 returned her look.
 
 'Since I began to know you,' he said, 'I have ceased to think it.'
-'Thank you,' said Mrs Manderson; and blushed suddenly and deeply. Then,
+'Thank you,' said Mrs. Manderson; and blushed suddenly and deeply. Then,
 playing with a glove, she added, 'But I want you to know what was true.
 
 'I did not know if I should ever see you again,' she went on in a lower
@@ -4787,14 +4817,14 @@ insist on speaking even if you were quite discouraging. I dare say I
 couldn't have done it if I had been guilty, as you thought. You walked
 into my parlour today, never thinking I should dare. Well, now you see.'
 
-Mrs Manderson had lost all her air of hesitancy. She had, as she was
+Mrs. Manderson had lost all her air of hesitancy. She had, as she was
 wont to say, talked herself enthusiastic, and in the ardour of her
 purpose to annihilate the misunderstanding that had troubled her so long
 she felt herself mistress of the situation.
 
 'I am going to tell you the story of the mistake you made,' she
 continued, as Trent, his hands clasped between his knees, still looked
-at her enigmatically. 'You will have to believe it, Mr Trent; it
+at her enigmatically. 'You will have to believe it, Mr. Trent; it
 is utterly true to life, with its confusions and hidden things and
 cross-purposes and perfectly natural mistakes that nobody thinks twice
 about taking for facts. Please understand that I don't blame you in the
@@ -4850,7 +4880,7 @@ which made him look up.
 
 'Can you--' he began slowly.
 
-She raised her hand as she stood before him. 'No, Mr Trent; let me
+She raised her hand as she stood before him. 'No, Mr. Trent; let me
 finish before you say anything. It is such an unspeakable relief to me
 to have broken the ice at last, and I want to end the story while I am
 still feeling the triumph of beginning it.' She sank down into the sofa
@@ -4860,7 +4890,7 @@ us, though I did everything in my power to hide it. But I don't think
 any one in the world ever guessed what my husband's notion was. People
 who know me don't think that sort of thing about me, I believe. And his
 fancy was so ridiculously opposed to the facts. I will tell you what the
-situation was. Mr Marlowe and I had been friendly enough since he came
+situation was. Mr. Marlowe and I had been friendly enough since he came
 to us. For all his cleverness--my husband said he had a keener brain
 than any man he knew--I looked upon him as practically a boy. You know
 I am a little older than he is, and he had a sort of amiable lack of
@@ -4871,14 +4901,14 @@ that, and after a silence he said, "Yes, Marlowe is a gentleman; that's
 so", not looking at me.
 
 'Nothing was ever said about that again until about a year ago, when
-I found that Mr Marlowe had done what I always expected he would
+I found that Mr. Marlowe had done what I always expected he would
 do--fallen desperately in love with an American girl. But to my disgust
 he had picked out the most worthless girl, I do believe, of all those
 whom we used to meet. She was the daughter of wealthy parents, and she
 did as she liked with them; very beautiful, well educated, very good at
 games--what they call a woman-athlete--and caring for nothing on earth
 but her own amusement. She was one of the most unprincipled flirts I
-ever knew, and quite the cleverest. Every one knew it, and Mr Marlowe
+ever knew, and quite the cleverest. Every one knew it, and Mr. Marlowe
 must have heard it; but she made a complete fool of him, brain and all.
 I don't know how she managed it, but I can imagine. She liked him, of
 course; but it was quite plain to me that she was playing with him. The
@@ -4895,12 +4925,12 @@ well connected, you know, as well as popular. But his enlightenment came
 very soon after that.
 
 'My husband helped me out of the boat when we got back. He joked with
-Mr Marlowe about something, I remember; for through all that followed he
+Mr. Marlowe about something, I remember; for through all that followed he
 never once changed in his manner to him, and that was one reason why I
 took so long to realize what he thought about him and myself. But to
 me he was reserved and silent that evening--not angry. He was always
 perfectly cold and expressionless to me after he took this idea into his
-head. After dinner he only spoke to me once. Mr Marlowe was telling him
+head. After dinner he only spoke to me once. Mr. Marlowe was telling him
 about some horse he had bought for the farm in Kentucky, and my husband
 looked at me and said, "Marlowe may be a gentleman, but he seldom quits
 loser in a horse-trade." I was surprised at that, but at that time--and
@@ -4917,18 +4947,18 @@ remember putting my hand on his arm as he stood there staring out on
 the garden and just then my husband appeared at the open door with some
 papers. He just glanced at us, and then turned and walked quietly back
 to his study. I thought that he might have heard what I was saying to
-comfort Mr Marlowe, and that it was rather nice of him to slip away.
-Mr Marlowe neither saw nor heard him. My husband left the house that
+comfort Mr. Marlowe, and that it was rather nice of him to slip away.
+Mr. Marlowe neither saw nor heard him. My husband left the house that
 morning for the West while I was out. Even then I did not understand. He
 used often to go off suddenly like that, if some business project called
 him.
 
 'It was not until he returned a week later that I grasped the situation.
 He was looking white and strange, and as soon as he saw me he asked
-me where Mr Marlowe was. Somehow the tone of his question told me
+me where Mr. Marlowe was. Somehow the tone of his question told me
 everything in a flash.
 
-'I almost gasped; I was wild with indignation. You know, Mr Trent,
+'I almost gasped; I was wild with indignation. You know, Mr. Trent,
 I don't think I should have minded at all if any one had thought me
 capable of openly breaking with my husband and leaving him for somebody
 else. I dare say I might have done that. But that coarse suspicion...
@@ -4945,10 +4975,10 @@ it--I never once showed that I noticed any change.
 husband showed silent and cold politeness to me always when we were
 alone--and that was only when it was unavoidable. He never once alluded
 to what was in his mind; but I felt it, and he knew that I felt it. Both
-of us were stubborn in our different attitudes. To Mr Marlowe he was
+of us were stubborn in our different attitudes. To Mr. Marlowe he was
 more friendly, if anything, than before--Heaven only knows why. I
 fancied he was planning some sort of revenge; but that was only a fancy.
-Certainly Mr Marlowe never knew what was suspected of him. He and I
+Certainly Mr. Marlowe never knew what was suspected of him. He and I
 remained good friends, though we never spoke of anything intimate after
 that disappointment of his; but I made a point of seeing no less of him
 than I had always done. Then we came to England and to White Gables, and
@@ -4974,7 +5004,7 @@ a fool. Almost--not quite. Sometimes when I have been alone I have
 remembered that folly, and poured contempt on it. I have tried to
 imagine what the facts were. I have tried to excuse myself.'
 
-She interrupted him quickly. 'What nonsense! Do be sensible, Mr Trent.
+She interrupted him quickly. 'What nonsense! Do be sensible, Mr. Trent.
 You had only seen me on two occasions in your life before you came to me
 with your solution of the mystery.' Again the quaint expression came and
 was gone. 'If you talk of folly, it really is folly for a man like you
@@ -4985,7 +5015,7 @@ evidence against me after seeing me twice.'
 'What do you mean by "a man like me"?' he demanded with a sort of
 fierceness. 'Do you take me for a person without any normal instincts?
 I don't say you impress people as a simple, transparent sort of
-character--what Mr Calvin Bunner calls a case of open-work; I don't say
+character--what Mr. Calvin Bunner calls a case of open-work; I don't say
 a stranger might not think you capable of wickedness, if there was good
 evidence for it: but I say that a man who, after seeing you and being
 in your atmosphere, could associate you with the particular kind of
@@ -5001,7 +5031,7 @@ And yet if you could know--' He stopped short, and then added quietly,
 sackcloth made, and the grittiest ashes on the heap.... I didn't mean to
 get worked up,' he ended lamely.
 
-Mrs Manderson laughed, and her laugh carried him away with it. He knew
+Mrs. Manderson laughed, and her laugh carried him away with it. He knew
 well by this time that sudden rush of cascading notes of mirth, the
 perfect expression of enjoyment; he had many times tried to amuse her
 merely for his delight in the sound of it.
@@ -5015,7 +5045,7 @@ we'll never speak of it any more.'
 
 'I hope not,' Trent said in sincere relief. 'If you're resolved to be so
 kind as this about it, I am not high-principled enough to insist on your
-blasting me with your lightnings. And now, Mrs Manderson, I had
+blasting me with your lightnings. And now, Mrs. Manderson, I had
 better go. Changing the subject after this would be like playing
 puss-in-the-corner after an earthquake.' He rose to his feet.
 
@@ -5043,26 +5073,26 @@ a murder trial. Many important witnesses in such cases have to be
 practically forced into giving their evidence. They feel there is
 defilement even in the shadow of the scaffold.'
 
-Mrs Manderson tapped her lips with the envelope without quite concealing
-a smile. 'You didn't think of another possibility, I suppose, Mr Trent,'
+Mrs. Manderson tapped her lips with the envelope without quite concealing
+a smile. 'You didn't think of another possibility, I suppose, Mr. Trent,'
 she said.
 
 'No.' He looked puzzled.
 
-'I mean the possibility of your having been wrong about Mr Marlowe as
+'I mean the possibility of your having been wrong about Mr. Marlowe as
 well as about me. No, no; you needn't tell me that the chain of evidence
-is complete. I know it is. But evidence of what? Of Mr Marlowe having
+is complete. I know it is. But evidence of what? Of Mr. Marlowe having
 impersonated my husband that night, and having escaped by way of my
 window, and built up an alibi. I have read your dispatch again and
-again, Mr Trent, and I don't see that those things can be doubted.'
+again, Mr. Trent, and I don't see that those things can be doubted.'
 
 Trent gazed at her with narrowed eyes. He said nothing to fill the brief
-pause that followed. Mrs Manderson smoothed her skirt with a preoccupied
+pause that followed. Mrs. Manderson smoothed her skirt with a preoccupied
 air, as one collecting her ideas.
 
 'I did not make any use of the facts found out by you,' she slowly said
 at last, 'because it seemed to me very likely that they would be fatal
-to Mr Marlowe.'
+to Mr. Marlowe.'
 
 'I agree with you,' Trent remarked in a colourless tone.
 
@@ -5080,12 +5110,12 @@ it chafed him. He would have had her declaration of faith a little less
 positive in form. It was too irrational to say she 'knew'. In fact
 (he put it to himself bluntly), it was quite unlike her. If to be
 unreasonable when reason led to the unpleasant was a specially feminine
-trait, and if Mrs Manderson had it, she was accustomed to wrap it up
+trait, and if Mrs. Manderson had it, she was accustomed to wrap it up
 better than any woman he had known.
 
 'You suggest,' he said at length, 'that Marlowe constructed an alibi for
 himself, by means which only a desperate man would have attempted,
-to clear himself of a crime he did not commit. Did he tell he was
+to clear himself of a crime he did not commit. Did he tell you he was
 innocent?'
 
 She uttered a little laugh of impatience. 'So you think he has been
@@ -5096,14 +5126,14 @@ foolishness in you to have a certain suspicion of me after seeing me and
 being in my atmosphere, as you said.' Trent started in his chair. She
 glanced at him, and went on: 'Now, I and my atmosphere are much obliged
 to you, but we must stand up for the rights of other atmospheres. I know
-a great deal more about Mr Marlowe's atmosphere than you know about mine
+a great deal more about Mr. Marlowe's atmosphere than you know about mine
 even now. I saw him constantly for several years. I don't pretend to
 know all about him; but I do know that he is incapable of a crime of
 bloodshed. The idea of his planning a murder is as unthinkable to me as
-the idea of your picking a poor woman's pocket, Mr Trent. I can imagine
+the idea of your picking a poor woman's pocket, Mr. Trent. I can imagine
 you killing a man, you know... if the man deserved it and had an
 equal chance of killing you. I could kill a person myself in some
-circumstances. But Mr Marlowe was incapable of doing it, I don't care
+circumstances. But Mr. Marlowe was incapable of doing it, I don't care
 what the provocation might be. He had a temper that nothing could shake,
 and he looked upon human nature with a sort of cold magnanimity that
 would find excuses for absolutely anything. It wasn't a pose; you could
@@ -5113,7 +5143,7 @@ remember, I have heard people talking about lynching, for instance, when
 he was there. He would sit quite silent and expressionless, appearing
 not to listen; but you could feel disgust coming from him in waves. He
 really loathed and hated physical violence. He was a very strange man in
-some ways, Mr Trent. He gave one a feeling that he might do unexpected
+some ways, Mr. Trent. He gave one a feeling that he might do unexpected
 things--do you know that feeling one has about some people? What part
 he really played in the events of that night I have never been able to
 guess. But nobody who knew anything about him could possibly believe in
@@ -5140,14 +5170,14 @@ law, if anything went wrong with them.'
 And I thought somebody else might have done it, and that he was somehow
 screening the guilty person. But that seemed wild. I could see no light
 in the mystery, and after a while I simply let it alone. All I was clear
-about was that Mr Marlowe was not a murderer, and that if I told what
+about was that Mr. Marlowe was not a murderer, and that if I told what
 you had found out, the judge and jury would probably think he was. I
 promised myself that I would speak to you about it if we should meet
 again; and now I've kept my promise.'
 
 Trent, his chin resting on his hand, was staring at the carpet. The
 excitement of the hunt for the truth was steadily rising in him. He
-had not in his own mind accepted Mrs Manderson's account of Marlowe's
+had not in his own mind accepted Mrs. Manderson's account of Marlowe's
 character as unquestionable. But she had spoken forcibly; he could by no
 means set it aside, and his theory was much shaken.
 
@@ -5156,7 +5186,7 @@ Marlowe. It worries me too much to have the thing left like this. I will
 get at the truth. Can you tell me,' he broke off, 'how he behaved after
 the day I left White Gables?'
 
-'I never saw him after that,' said Mrs Manderson simply. 'For some days
+'I never saw him after that,' said Mrs. Manderson simply. 'For some days
 after you went away I was ill, and didn't go out of my room. When I got
 down he had left and was in London, settling things with the lawyers. He
 did not come down to the funeral. Immediately after that I went abroad.
@@ -5171,18 +5201,18 @@ night. I never wanted to see or hear of him again.'
 
 'Then you don't know what has become of him?'
 
-'No, but I dare say Uncle Burton--Mr Cupples, you know--could tell you.
-Some time ago he told me that he had met Mr Marlowe in London, and had
+'No, but I dare say Uncle Burton--Mr. Cupples, you know--could tell you.
+Some time ago he told me that he had met Mr. Marlowe in London, and had
 some talk with him. I changed the conversation.' She paused and smiled
 with a trace of mischief. 'I rather wonder what you supposed had
-happened to Mr Marlowe after you withdrew from the scene of the drama
+happened to Mr. Marlowe after you withdrew from the scene of the drama
 that you had put together so much to your satisfaction.'
 
 Trent flushed. 'Do you really want to know?' he said.
 
 'I ask you,' she retorted quietly.
 
-'You ask me to humiliate myself again, Mrs Manderson. Very well. I will
+'You ask me to humiliate myself again, Mrs. Manderson. Very well. I will
 tell you what I thought I should most likely find when I returned to
 London after my travels: that you had married Marlowe to live abroad.'
 
@@ -5193,7 +5223,7 @@ thoughtfully. 'He had practically nothing then.'
 He stared at her--'gaped', she told him some time afterwards. At the
 moment she laughed with a little embarrassment.
 
-'Dear me, Mr Trent! Have I said anything dreadful? You surely must
+'Dear me, Mr. Trent! Have I said anything dreadful? You surely must
 know.... I thought everybody understood by now.... I'm sure I've had to
 explain it often enough... if I marry again I lose everything that my
 husband left me.'
@@ -5203,11 +5233,11 @@ face was flooded with the emotion of surprise. As this passed away he
 gradually drew himself together, as he sat, into a tense attitude. He
 looked, she thought as she saw his knuckles grow white on the arms of
 the chair, like a man prepared for pain under the hand of the surgeon.
-But all he said, in a voice lower than his usual tone, was, I had no
+But all he said, in a voice lower than his usual tone, was, 'I had no
 idea of it.'
 
 'It is so,' she said calmly, trifling with a ring on her finger.
-'Really, Mr Trent, it is not such a very unusual thing. I think I am
+'Really, Mr. Trent, it is not such a very unusual thing. I think I am
 glad of it. For one thing, it has secured me--at least since it became
 generally known--from a good many attentions of a kind that a woman in
 my position has to put up with as a rule.'
@@ -5262,7 +5292,7 @@ the mere waste of yourself for so long. Madness rose in me then, and
 my spirit was clamouring to say what I say at last now: that life would
 never seem a full thing again because you could not love me, that I was
 taken for ever in the nets of your black hair and by the incantation of
-your voice-'
+your voice--'
 
 'Oh, stop!' she cried, suddenly throwing back her head, her face flaming
 and her hands clutching the cushions beside her. She spoke fast and
@@ -5315,7 +5345,7 @@ He shook his head. 'What I want to say--what I have been wanting for the
 past twenty-four hours to say to every man, woman, and child I met--is
 "Mabel and I are betrothed, and all is gas and gaiters." But that
 wouldn't be a very good opening for a letter of strictly formal, not to
-say sinister, character. I have got as far as "Dear Mr Marlowe." What
+say sinister, character. I have got as far as "Dear Mr. Marlowe." What
 comes next?'
 
 'I am sending you a manuscript,' she prompted, 'which I thought you
@@ -5367,9 +5397,9 @@ England, sweet her artless cabmen, enough their simple loveliness
 for me. But when you come to the people who make up the collective
 industrial brain-power of the country.... Why, do you know--'
 
-'Oh no, no, no!' cried Mrs Manderson. 'I don't know anything at the
+'Oh no, no, no!' cried Mrs. Manderson. 'I don't know anything at the
 moment, except that your talking must be stopped somehow, if we are to
-get any further with that letter to Mr Marlowe. You shall not get out of
+get any further with that letter to Mr. Marlowe. You shall not get out of
 it. Come!' She put the pen into his hand.
 
 Trent looked at it with distaste. 'I warn you not to discourage my
@@ -5390,7 +5420,7 @@ off your hands, so that you can't recall it if you would, and it's no
 use fussing any more about it?'
 
 'I will do as you wish,' he said, and turned to the paper, which he
-dated as from his hotel. Mrs Manderson looked down at his bent head with
+dated as from his hotel. Mrs. Manderson looked down at his bent head with
 a gentle light in her eyes, and made as if to place a smoothing hand
 upon his rather untidy crop of hair. But she did not touch it. Going in
 silence to the piano, she began to play very softly. It was ten minutes
@@ -5398,13 +5428,13 @@ before Trent spoke.
 
 'If he chooses to reply that he will say nothing?'
 
-Mrs Manderson looked over her shoulder. 'Of course he dare not take that
+Mrs. Manderson looked over her shoulder. 'Of course he dare not take that
 line. He will speak to prevent you from denouncing him.'
 
 'But I'm not going to do that anyhow. You wouldn't allow it--you said
 so; besides, I won't if you would. The thing's too doubtful now.'
 
-'But,' she laughed, 'poor Mr Marlowe doesn't know you won't, does he?'
+'But,' she laughed, 'poor Mr. Marlowe doesn't know you won't, does he?'
 
 Trent sighed. 'What extraordinary things codes of honour are!' he
 remarked abstractedly. 'I know that there are things I should do, and
@@ -5412,7 +5442,7 @@ never think twice about, which would make you feel disgraced if you did
 them--such as giving any one who grossly insulted me a black eye, or
 swearing violently when I barked my shin in a dark room. And now you are
 calmly recommending me to bluff Marlowe by means of a tacit threat which
-I don't mean; a thing which hews most abandoned fiend did never, in
+I don't mean; a thing which hell's most abandoned fiend did never, in
 the drunkenness of guilt--well, anyhow, I won't do it.' He resumed his
 writing, and the lady, with an indulgent smile, returned to playing very
 softly.
@@ -5434,7 +5464,7 @@ WHICH IT IS NOT NECESSARY TO STATE I DECIDED AT THE LAST MOMENT NOT TO
 MAKE THEM PUBLIC, OR TO COMMUNICATE THEM TO YOU, AND THEY ARE KNOWN TO
 ONLY TWO PERSONS BESIDE MYSELF.
 
-At this point Mrs Manderson raised her eyes quickly from the letter. Her
+At this point Mrs. Manderson raised her eyes quickly from the letter. Her
 dark brows were drawn together. 'Two persons?' she said with a note of
 enquiry.
 
@@ -5464,7 +5494,7 @@ WHY YOU SHOULD WITHHOLD IT.
 
 I EXPECT, THEN, TO HEAR FROM YOU WHEN AND WHERE I MAY CALL UPON YOU;
 UNLESS YOU PREFER THE INTERVIEW TO TAKE PLACE AT MY HOTEL. IN EITHER
-CASE I DESIRE THAT MR CUPPLES, WHOM YOU WILL REMEMBER, AND WHO HAS READ
+CASE I DESIRE THAT MR. CUPPLES, WHOM YOU WILL REMEMBER, AND WHO HAS READ
 THE ENCLOSED DOCUMENT, SHOULD BE PRESENT ALSO.--FAITHFULLY YOURS, PHILIP
 TRENT.
 
@@ -5479,7 +5509,9 @@ oughtn't to be left.'
 
 She nodded. 'I can arrange that. Wait here for a little.'
 
-When Mrs Manderson returned, he was hunting through the music cabinet.
+***
+
+When Mrs. Manderson returned, he was hunting through the music cabinet.
 She sank on the carpet beside him in a wave of dark brown skirts. 'Tell
 me something, Philip,' she said.
 
@@ -5495,6 +5527,8 @@ world into our confidence at once or later on.'
 you to tell him. Perhaps if you think you will guess why.... There! that
 is settled.' She lifted her eyes again to his, and for a time there was
 silence between them.
+
+***
 
 He leaned back at length in the deep chair. 'What a world!' he said.
 'Mabel, will you play something on the piano that expresses mere joy,
@@ -5516,11 +5550,11 @@ An old oaken desk with a deep body stood by the window in a room that
 overlooked St. James's Park from a height. The room was large, furnished
 and decorated by some one who had brought taste to the work; but the
 hand of the bachelor lay heavy upon it. John Marlowe unlocked the desk
-and drew a long, stout envelope the back of the well.
+and drew a long, stout envelope from the back of the well.
 
-'I understand,' he said to Mr Cupples, 'that you have read this.'
+'I understand,' he said to Mr. Cupples, 'that you have read this.'
 
-'I read it for the first time two days ago,' replied Mr Cupples, who,
+'I read it for the first time two days ago,' replied Mr. Cupples, who,
 seated on a sofa, was peering about the room with a benignant face. 'We
 have discussed it fully.'
 
@@ -5586,7 +5620,7 @@ Then he could make a bolder and cleverer plan than any man of them all.
 People got to know that Manderson would never do the obvious thing, but
 they got no further; the thing he did do was almost always a surprise,
 and much of his success flowed from that. The Street got rattled, as
-they used to put it, when known that the old man was out with his
+they used to put it, when it was known that the old man was out with his
 gun, and often his opponents seemed to surrender as easily as Colonel
 Crockett's coon in the story. The scheme I am going to describe to you
 would have occupied most men long enough. Manderson could have plotted
@@ -5619,7 +5653,7 @@ think he supposed I would; but I have thought since that his mind took
 a turn against me from that time onward. It happened about a year before
 his death.'
 
-'Had Manderson,' asked Mr Cupples, so unexpectedly that the others
+'Had Manderson,' asked Mr. Cupples, so unexpectedly that the others
 started, 'any definable religious attitude?'
 
 Marlowe considered a moment. 'None that ever I heard of,' he said.
@@ -5642,7 +5676,7 @@ deceive the enemy. The rules of the game allow it; and the same may be
 said of business as many business men regard it. Only with them it is
 always wartime.'
 
-'It is a sad world,' observed Mr Cupples.
+'It is a sad world,' observed Mr. Cupples.
 
 'As you say,' Marlowe agreed. 'Now I was saying that one could always
 take Manderson's word if he gave it in a definite form. The first time
@@ -5655,7 +5689,7 @@ exactly on what footing you were with Manderson during the years you
 were with him?'
 
 'We were on very good terms from beginning to end,' answered Marlowe.
-'Nothing like friendship--he was not a man for making friends---but the
+'Nothing like friendship--he was not a man for making friends--but the
 best of terms as between a trusted employee and his chief. I went to him
 as private secretary just after getting my degree at Oxford. I was
 to have gone into my father's business, where I am now, but my father
@@ -5670,7 +5704,7 @@ The others looked at him in surprise.
 
 'Chess!' repeated Trent. 'Do you know,' he said, rising and approaching
 Marlowe, 'what was the first thing I noted about you at our first
-meeting? It was your eye, Mr Marlowe. I couldn't place it then, but I
+meeting? It was your eye, Mr. Marlowe. I couldn't place it then, but I
 know now where I had seen your eyes before. They were in the head of no
 less a man than the great Nikolay Korchagin, with whom I once sat in the
 same railway carriage for two days. I thought I should never forget the
@@ -5719,7 +5753,7 @@ a happy life for me on the whole. I was busy, my work was varied and
 interesting; I had time to amuse myself too, and money to spend. At
 one time I made a fool of myself about a girl, and that was not a
 happy time; but it taught me to understand the great goodness of Mrs
-Manderson.' Marlowe inclined his head to Mr Cupples as he said this.
+Manderson.' Marlowe inclined his head to Mr. Cupples as he said this.
 'She may choose to tell you about it. As for her husband, he had never
 varied in his attitude towards me, in spite of the change that came over
 him in the last months of his life, as you know. He treated me well and
@@ -5730,10 +5764,10 @@ the end that made the revelation so shocking when I was suddenly shown,
 on the night on which he met his end, the depth of crazy hatred of
 myself that was in Manderson's soul.'
 
-The eyes of Trent and Mr Cupples met for an instant.
+The eyes of Trent and Mr. Cupples met for an instant.
 
 'You never suspected that he hated you before that time?' asked Trent;
-and Mr Cupples asked at the same moment, 'To what did you attribute it?'
+and Mr. Cupples asked at the same moment, 'To what did you attribute it?'
 
 'I never guessed until that night,' answered Marlowe, 'that he had the
 smallest ill-feeling toward me. How long it had existed I do not know.
@@ -5745,7 +5779,7 @@ the root of it. But who can sound the abysses of a lunatic's fancy? Can
 you imagine the state of mind in which a man dooms himself to death with
 the object of delivering some one he hates to the hangman?'
 
-Mr Cupples moved sharply in his chair. 'You say Manderson was
+Mr. Cupples moved sharply in his chair. 'You say Manderson was
 responsible for his own death?' he asked.
 
 Trent glanced at him with an eye of impatience, and resumed his intent
@@ -5753,22 +5787,22 @@ watch upon the face of Marlowe. In the relief of speech it was now less
 pale and drawn.
 
 'I do say so,' Marlowe answered concisely, and looked his questioner in
-the face. Mr Cupples nodded.
+the face. Mr. Cupples nodded.
 
 'Before we proceed to the elucidation of your statement,' observed the
 old gentleman, in a tone of one discussing a point of abstract science,
 'it may be remarked that the state of mind which you attribute to
-Manderson-'
+Manderson--'
 
 'Suppose we have the story first,' Trent interrupted, gently laying a
-hand on Mr Cupples's arm. 'You were telling us,' he went on, turning to
-Marlowe, 'how things stood between you and Manderson. Now you tell us
+hand on Mr. Cupples's arm. 'You were telling us,' he went on, turning to
+Marlowe, 'how things stood between you and Manderson. Now will you tell us
 the facts of what happened that night?'
 
 Marlowe flushed at the barely perceptible emphasis which Trent laid upon
 the word 'facts'. He drew himself up.
 
-'Bunner and myself dined with Mr and Mrs Manderson that Sunday evening,'
+'Bunner and myself dined with Mr. and Mrs. Manderson that Sunday evening,'
 he began, speaking carefully. 'It was just like other dinners at which
 the four of us had been together. Manderson was taciturn and gloomy,
 as we had latterly been accustomed to see him. We others kept a
@@ -5909,7 +5943,7 @@ they were alone. "Has he mislaid his note-case?" was the question that
 flashed through my mind. But it seemed to me that it could not affect
 his plan at all, and I will tell you why. The week before, when I
 had gone up to London to carry out various commissions, including the
-booking of a berth for Mr George Harris, I had drawn a thousand pounds
+booking of a berth for Mr. George Harris, I had drawn a thousand pounds
 for Manderson from his bankers, and all, at his request, in notes of
 small amounts. I did not know what this unusually large sum in cash was
 for, but I did know that the packets of notes were in his locked desk
@@ -5920,7 +5954,7 @@ fingering them as he sat at the desk.
 There was fury in his face, and it was a strange sight to see him
 gradually master it until his eyes grew cold again. "Wait in the car,"
 he said slowly. "I will get some money." We both went out, and as I was
-getting into my overcoat in the hall I saw him enter the drawing--which,
+getting into my overcoat in the hall I saw him enter the drawing-room, which,
 you remember, was on the other side of the entrance hall.
 
 'I stepped out on to the lawn before the house and smoked a cigarette,
@@ -5988,7 +6022,7 @@ him, stood erect before the fire as he continued his tale.
 
 'I expect you both know what the back-reflector of a motor car is.'
 
-Trent nodded quickly, his face alive with anticipation; but Mr Cupples,
+Trent nodded quickly, his face alive with anticipation; but Mr. Cupples,
 who cherished a mild but obstinate prejudice against motor cars, readily
 confessed to ignorance.
 
@@ -6021,7 +6055,7 @@ speed, and as it went, my brain, suddenly purged of the vapours of doubt
 and perplexity, was as busy as the throbbing engine before my feet. I
 knew.
 
-'You say something in that manuscript of yours, Mr Trent, about the
+'You say something in that manuscript of yours, Mr. Trent, about the
 swift automatic way in which one's ideas arrange themselves about some
 new illuminating thought. It is quite true. The awful intensity of
 ill-will that had flamed after me from those straining eyeballs poured
@@ -6095,7 +6129,7 @@ Trent dangled the key by its tape idly. Then: 'How do you know this is
 the key of that case?' he asked quickly.
 
 'I tried it. As soon as I found it I went up and fitted it to the lock.
-I knew where I had left the thing. So do you, I think, Mr Trent. Don't
+I knew where I had left the thing. So do you, I think, Mr. Trent. Don't
 you?' There was a faint shade of mockery in Marlowe's voice.
 
 'Touché,' Trent said, with a dry smile. 'I found a large empty
@@ -6169,7 +6203,7 @@ clearly visible to me in the moonlight.'
 Marlowe made another pause, and Trent, with a puckered brow, enquired,
 'On the golf-course?'
 
-'Obviously,' remarked Mr Cupples. 'The eighth green is just there.'
+'Obviously,' remarked Mr. Cupples. 'The eighth green is just there.'
 He had grown more and more interested as Marlowe went on, and was now
 playing feverishly with his thin beard.
 
@@ -6303,14 +6337,14 @@ moonlight run in the car. He is very urgent about it." All at once
 it struck me that, without meaning to do so, I was saying this in
 Manderson's voice.
 
-'As you found out for yourself, Mr Trent, I have a natural gift of
+'As you found out for yourself, Mr. Trent, I have a natural gift of
 mimicry. I had imitated Manderson's voice many times so successfully as
 to deceive even Bunner, who had been much more in his company than
-his own wife. It was, you remember'--Marlowe turned to Mr Cupples--'a
+his own wife. It was, you remember'--Marlowe turned to Mr. Cupples--'a
 strong, metallic voice, of great carrying power, so unusual as to make
 it a very fascinating voice to imitate, and at the same time very easy.
 I said the words carefully to myself again, like this--' he uttered
-them, and Mr Cupples opened his eyes in amazement--'and then I struck
+them, and Mr. Cupples opened his eyes in amazement--'and then I struck
 my hand upon the low wall beside me. "Manderson never returned alive?" I
 said aloud. "But Manderson shall return alive!"'
 
@@ -6385,7 +6419,7 @@ it was a trying moment, for though I was safe from the eyes of Martin,
 as he sat in his pantry, there was a faint possibility of somebody
 being about on the bedroom floor. I had sometimes found the French maid
 wandering about there when the other servants were in bed. Bunner, I
-knew, was a deep sleeper, Mrs Manderson, I had gathered from things
+knew, was a deep sleeper. Mrs. Manderson, I had gathered from things
 I had heard her say, was usually asleep by eleven; I had thought it
 possible that her gift of sleep had helped her to retain all her beauty
 and vitality in spite of a marriage which we all knew was an unhappy
@@ -6408,12 +6442,12 @@ in the bed and tumble it. You know all about it--all except my state of
 mind, which you couldn't imagine and I couldn't describe.
 
 'The worst came when I had hardly begun my operations: the moment when
-Mrs Manderson spoke from the room where I supposed her asleep. I was
+Mrs. Manderson spoke from the room where I supposed her asleep. I was
 prepared for it happening; it was a possibility; but I nearly lost my
 nerve all the same. However....
 
 'By the way, I may tell you this: in the extremely unlikely contingency
-of Mrs Manderson remaining awake, and so putting out of the question my
+of Mrs. Manderson remaining awake, and so putting out of the question my
 escape by way of her window, I had planned simply to remain where I was
 a few hours, and then, not speaking to her, to leave the house quickly
 and quietly by the ordinary way. Martin would have been in bed by that
@@ -6438,19 +6472,19 @@ returned to the house. The suspicion could not, I was confident, enter
 any one's mind. All the same, I wanted to introduce the element of
 absolute physical impossibility; I knew I should feel ten times as
 safe with that. So when I knew from the sound of her breathing that
-Mrs Manderson was asleep again, I walked quickly across her room in my
+Mrs. Manderson was asleep again, I walked quickly across her room in my
 stocking feet, and was on the grass with my bundle in ten seconds. I
 don't think I made the least noise. The curtain before the window was of
 soft, thick stuff and didn't rustle, and when I pushed the glass doors
 further open there was not a sound.'
 
 'Tell me,' said Trent, as the other stopped to light a new cigarette,
-'why you took the risk of going through Mrs Manderson's room to escape
+'why you took the risk of going through Mrs. Manderson's room to escape
 from the house. I could see when I looked into the thing on the spot why
 it had to be on that side of the house; there was a danger of being seen
 by Martin, or by some servant at a bedroom window, if you got out by a
 window on one of the other sides. But there were three unoccupied rooms
-on that side; two spare bedrooms and Mrs Manderson's sitting-room. I should have
+on that side; two spare bedrooms and Mrs. Manderson's sitting-room. I should have
 thought it would have been safer, after you had done what was necessary
 to your plan in Manderson's room, to leave it quietly and escape through
 one of those three rooms.... The fact that you went through her window,
@@ -6459,7 +6493,7 @@ various suspicions in regard to the lady herself. I think you understand
 me.'
 
 Marlowe turned upon him with a glowing face. 'And I think you will
-understand me, Mr Trent,' he said in a voice that shook a little, 'when
+understand me, Mr. Trent,' he said in a voice that shook a little, 'when
 I say that if such a possibility had occurred to me then, I would have
 taken any risk rather than make my escape by that way.... Oh well!' he
 went on more coolly, 'I suppose that to any one who didn't know her,
@@ -6479,7 +6513,7 @@ the window of an unoccupied room.'
 to do it. I tell you, when I entered Manderson's room I shut the door of
 it on more than half my terrors. I had the problem confined before me in
 a closed space, with only one danger in it, and that a known danger: the
-danger of Mrs Manderson. The thing was almost done; I had only to wait
+danger of Mrs. Manderson. The thing was almost done; I had only to wait
 until she was certainly asleep after her few moments of waking up,
 for which, as I told you, I was prepared as a possibility. Barring
 accidents, the way was clear. But now suppose that I, carrying
@@ -6497,7 +6531,7 @@ exactly what I had to face. As I lay in my clothes in Manderson's bed
 and listened for the almost inaudible breathing through the open door, I
 felt far more ease of mind, terrible as my anxiety was, than I had felt
 since I saw the dead body on the turf. I even congratulated myself
-that I had had the chance, through Mrs Manderson's speaking to me, of
+that I had had the chance, through Mrs. Manderson's speaking to me, of
 tightening one of the screws in my scheme by repeating the statement
 about my having been sent to Southampton.'
 
@@ -6509,7 +6543,7 @@ there, I have no doubt. I had decided to take Manderson's story about
 the mysterious Harris and act it out on my own lines. It was a carefully
 prepared lie, better than anything I could improvise. I even went so
 far as to get through a trunk call to the hotel at Southampton from the
-library before starting, and ask if Harris was there. I expected, he
+library before starting, and ask if Harris was there. As I expected, he
 wasn't.'
 
 'Was that why you telephoned?' Trent enquired quickly.
@@ -6553,16 +6587,16 @@ the hundredth part of a dog's chance with a judge and jury. One thing is
 beyond dispute on any reading of the affair: you are a man of courage.'
 
 The colour rushed into Marlowe's face, and he hesitated for words.
-Before he could speak Mr Cupples arose with a dry cough.
+Before he could speak Mr. Cupples arose with a dry cough.
 
 'For my part,' he said, 'I never supposed you guilty for a moment.'
 Marlowe turned to him in grateful amazement, Trent with an incredulous
-stare. 'But,' pursued Mr Cupples, holding up his hand, 'there is one
+stare. 'But,' pursued Mr. Cupples, holding up his hand, 'there is one
 question which I should like to put.'
 
 Marlowe bowed, saying nothing.
 
-'Suppose,' said Mr Cupples, 'that some one else had been suspected of
+'Suppose,' said Mr. Cupples, 'that some one else had been suspected of
 the crime and put upon trial. What would you have done?'
 
 'I think my duty was clear. I should have gone with my story to the
@@ -6580,7 +6614,7 @@ clever!' He seized the bulky envelope from the table and stuffed it into
 the heart of the fire. 'There's for you, old friend! For want of you the
 world's course will not fail. But look here! It's getting late--nearly
 seven, and Cupples and I have an appointment at half-past. We must go.
-Mr Marlowe, goodbye.' He looked into the other's eyes. 'I am a man
+Mr. Marlowe, goodbye.' He looked into the other's eyes. 'I am a man
 who has worked hard to put a rope round your neck. Considering the
 circumstances, I don't know whether you will blame me. Will you shake
 hands?'
@@ -6591,7 +6625,7 @@ hands?'
 CHAPTER XVI: The Last Straw
 
 'What was that you said about our having an appointment at half-past
-seven?' asked Mr Cupples as the two came out of the great gateway of the
+seven?' asked Mr. Cupples as the two came out of the great gateway of the
 pile of flats. 'Have we such an appointment?'
 
 'Certainly we have,' replied Trent. 'You are dining with me. Only one
@@ -6608,7 +6642,7 @@ club hath bored millions of members like me, and shall bore; but tonight
 let the feast be spread in vain, so far as we are concerned. We will not
 go where the satraps throng the hall. We will go to Sheppard's.'
 
-'Who is Sheppard?' asked Mr Cupples mildly, as they proceeded up
+'Who is Sheppard?' asked Mr. Cupples mildly, as they proceeded up
 Victoria Street. His companion went with an unnatural lightness, and a
 policeman, observing his face, smiled indulgently at a look of happiness
 which he could only attribute to alcohol.
@@ -6634,7 +6668,7 @@ feverishly lighting a cigarette, 'is that I am going to be married to
 the most wonderful woman in the world. I trust the connection of ideas
 is clear.'
 
-'You are going to marry Mabel!' cried Mr Cupples. 'My dear friend, what
+'You are going to marry Mabel!' cried Mr. Cupples. 'My dear friend, what
 good news this is! Shake hands, Trent; this is glorious! I congratulate
 you both from the bottom of my heart. And may I say--I don't want to
 interrupt your flow of high spirits, which is very natural indeed, and I
@@ -6643,7 +6677,7 @@ may I say how earnestly I have hoped for this? Mabel has seen so much
 unhappiness, yet she is surely a woman formed in the great purpose of
 humanity to be the best influence in the life of a good man. But I did
 not know her mind as regarded yourself. Your mind I have known for some
-time,' Mr Cupples went on, with a twinkle in his eye that would have
+time,' Mr. Cupples went on, with a twinkle in his eye that would have
 done credit to the worldliest of creatures. 'I saw it at once when
 you were both dining at my house, and you sat listening to Professor
 Peppmuller and looking at her. Some of us older fellows have our wits
@@ -6675,7 +6709,7 @@ always had tobacco in his old tobacco-box.
 
 'But you're not singing. I thought you would be making the welkin ring.'
 
-'I never sang that song in my life,' protested Mr Cupples. 'I never
+'I never sang that song in my life,' protested Mr. Cupples. 'I never
 heard it before.'
 
 'Are you sure?' enquired Trent doubtfully. 'Well, I suppose I must take
@@ -6686,7 +6720,7 @@ to the lips. Out of the fullness of the heart the mouth speaketh, as
 the Bishop of Bath and Wells said when listening to a speech of Mr
 Balfour's.'
 
-'When was that?' asked Mr Cupples.
+'When was that?' asked Mr. Cupples.
 
 'On the occasion,' replied Trent, 'of the introduction of the Compulsory
 Notification of Diseases of Poultry Bill, which ill-fated measure you
@@ -6694,18 +6728,18 @@ of course remember. Hullo!' he broke off, as the cab rushed down a side
 street and swung round a corner into a broad and populous thoroughfare,
 'we're there already'. The cab drew up.
 
-'Here we are,' said Trent, as he paid the man, and led Mr Cupples into a
+'Here we are,' said Trent, as he paid the man, and led Mr. Cupples into a
 long, panelled room set with many tables and filled with a hum of talk.
 'This is the house of fulfilment of craving, this is the bower with
 the roses around it. I see there are three bookmakers eating pork at my
 favourite table. We will have that one in the opposite corner.'
 
-He conferred earnestly with a waiter, while Mr Cupples, in a pleasant
+He conferred earnestly with a waiter, while Mr. Cupples, in a pleasant
 meditation, warmed himself before the great fire. 'The wine here,' Trent
 resumed, as they seated themselves, 'is almost certainly made out of
 grapes. What shall we drink?'
 
-Mr Cupples came out of his reverie. 'I think,' he said, 'I will have
+Mr. Cupples came out of his reverie. 'I think,' he said, 'I will have
 milk and soda water.'
 
 'Speak lower!' urged Trent. 'The head-waiter has a weak heart, and might
@@ -6720,7 +6754,7 @@ know, and I hope you will try it. If you have taken a vow, then in the
 name of all the teetotal saints drink water, which stands at your elbow,
 but don't seek a cheap notoriety by demanding milk and soda.'
 
-'I have never taken any pledge,' said Mr Cupples, examining his mutton
+'I have never taken any pledge,' said Mr. Cupples, examining his mutton
 with a favourable eye. 'I simply don't care about wine. I bought a
 bottle once and drank it to see what it was like, and it made me ill.
 But very likely it was bad wine. I will taste some of yours, as it is
@@ -6729,7 +6763,7 @@ something unusual to show how strongly I feel on the present occasion. I
 have not been so delighted for many years. To think,' he reflected aloud
 as the waiter filled his glass, 'of the Manderson mystery disposed of,
 the innocent exculpated, and your own and Mabel's happiness crowned--all
-coming upon me together! I drink to you, my dear friend.' And Mr Cupples
+coming upon me together! I drink to you, my dear friend.' And Mr. Cupples
 took a very small sip of the wine.
 
 'You have a great nature,' said Trent, much moved. 'Your outward
@@ -6742,7 +6776,7 @@ again. 'I have no business to meddle with your tastes. I apologize. You
 shall have what you want, even if it causes the head-waiter to perish in
 his pride.'
 
-When Mr Cupples had been supplied with his monastic drink, and the
+When Mr. Cupples had been supplied with his monastic drink, and the
 waiter had retired, Trent looked across the table with significance. 'In
 this babble of many conversations,' he said, 'we can speak as freely as
 if we were on a bare hillside. The waiter is whispering soft nothings
@@ -6751,7 +6785,7 @@ you think of that interview of this afternoon?' He began to dine with an
 appetite.
 
 Without pausing in the task of cutting his mutton into very small pieces
-Mr Cupples replied: 'The most curious feature of it, in my judgement,
+Mr. Cupples replied: 'The most curious feature of it, in my judgement,
 was the irony of the situation. We both held the clue to that mad hatred
 of Manderson's which Marlowe found so mysterious. We knew of his jealous
 obsession; which knowledge we withheld, as was very proper, if only in
@@ -6765,7 +6799,7 @@ into the Church of Rome. This absurd fiction was based upon the fact,
 which in the eyes of many appeared conclusive, that I had expressed
 myself in talk as favouring the plan of a weekly abstinence from meat.
 Manderson's belief in regard to his secretary probably rested upon a
-much slighter ground. It was Mr Bunner, I think you said, who told
+much slighter ground. It was Mr. Bunner, I think you said, who told
 you of his rooted and apparently hereditary temper of suspicious
 jealousy.... With regard to Marlowe's story, it appeared to me entirely
 straightforward, and not, in its essential features, especially
@@ -6775,7 +6809,7 @@ of Manderson we have to deal with a more or less disordered mind.'
 Trent laughed loudly. 'I confess,' he said, 'that the affair struck me
 as a little unusual.
 
-'Only in the development of the details,' argued Mr Cupples. 'What
+'Only in the development of the details,' argued Mr. Cupples. 'What
 is there abnormal in the essential facts? A madman conceives a crazy
 suspicion; he hatches a cunning plot against his fancied injurer; it
 involves his own destruction. Put thus, what is there that any man with
@@ -6792,7 +6826,7 @@ conversation, 'whether there is anything that ever happened on the
 face of the earth that you could not represent as quite ordinary and
 commonplace by such a line of argument as that.'
 
-A gentle smile illuminated Mr Cupples's face. 'You must not suspect me
+A gentle smile illuminated Mr. Cupples's face. 'You must not suspect me
 of empty paradox,' he said. 'My meaning will become clearer, perhaps, if
 I mention some things which do appear to me essentially remarkable.
 Let me see .... Well, I would call the life history of the liver-fluke,
@@ -6803,7 +6837,7 @@ thing.'
 smiled upon the liver-fluke's humble birth, but I never even heard it
 mentioned.'
 
-'It is not, perhaps, an appetizing subject,' said Mr Cupples
+'It is not, perhaps, an appetizing subject,' said Mr. Cupples
 thoughtfully, 'and I will not pursue it. All I mean is, my dear Trent,
 that there are really remarkable things going on all round us if we
 will only see them; and we do our perceptions no credit in regarding as
@@ -6819,7 +6853,7 @@ still and hear the Manderson affair dismissed as commonplace. You may
 say what you like, but the idea of impersonating Manderson in those
 circumstances was an extraordinarily ingenious idea.'
 
-'Ingenious--certainly!' replied Mr Cupples. 'Extraordinarily so--no! In
+'Ingenious--certainly!' replied Mr. Cupples. 'Extraordinarily so--no! In
 those circumstances (your own words) it was really not strange that
 it should occur to a clever man. It lay almost on the surface of the
 situation. Marlowe was famous for his imitation of Manderson's voice; he
@@ -6836,7 +6870,7 @@ complexity.'
 'Did it really strike you in that way?' enquired Trent with desperate
 sarcasm.
 
-'The affair became complicated,' went on Mr Cupples unmoved, 'because
+'The affair became complicated,' went on Mr. Cupples unmoved, 'because
 after Marlowe's suspicions were awakened, a second subtle mind came
 in to interfere with the plans of the first. That sort of duel often
 happens in business and politics, but less frequently, I imagine, in the
@@ -6854,7 +6888,7 @@ policeman are often swift and bold tacticians, but neither of them is
 good for more than a quite simple plan. After all, it's a rare faculty
 in any walk of life.'
 
-'One disturbing reflection was left on my mind,' said Mr Cupples, who
+'One disturbing reflection was left on my mind,' said Mr. Cupples, who
 seemed to have had enough of abstractions for the moment, 'by what we
 learned today. If Marlowe had suspected nothing and walked into the
 trap, he would almost certainly have been hanged. Now how often may
@@ -6880,7 +6914,7 @@ murder on innocent people, but the plotter did in effect what Manderson
 did; he gave up his own life in order to secure the death of his
 victims. Probably you have heard of the Campden Case.'
 
-Mr Cupples confessed his ignorance and took another potato.
+Mr. Cupples confessed his ignorance and took another potato.
 
 'John Masefield has written a very remarkable play about it,' said
 Trent, 'and if it ever comes on again in London, you should go and see
@@ -6904,7 +6938,7 @@ to death to get somebody else hanged. Now that is exactly the answer
 which the prosecution would have made if Marlowe had told the truth. Not
 one juryman in a million would have believed in the Manderson plot.'
 
-Mr Cupples mused upon this a few moments. 'I have not your acquaintance
+Mr. Cupples mused upon this a few moments. 'I have not your acquaintance
 with that branch of history,' he said at length; 'in fact, I have none
 at all. But certain recollections of my own childhood return to me in
 connection with this affair. We know from the things Mabel told you what
@@ -6918,9 +6952,9 @@ people are actually unable to express it, and nobody else divines it.
 When I was a lad in Edinburgh the whole country went mad about the
 Sandyford Place murder.'
 
-Trent nodded. 'Mrs M'Lachlan's case. She was innocent right enough.'
+Trent nodded. 'Mrs. M'Lachlan's case. She was innocent right enough.'
 
-'My parents thought so,' said Mr Cupples. 'I thought so myself when I
+'My parents thought so,' said Mr. Cupples. 'I thought so myself when I
 became old enough to read and understand that excessively sordid story.
 But the mystery of the affair was so dark, and the task of getting
 at the truth behind the lies told by everybody concerned proved so
@@ -6958,7 +6992,7 @@ Marlowe, and trembling with indignation at the record unrolled before
 you--cupidity, murder, robbery, sudden cowardice, shameless, impenitent,
 desperate lying! Why, you and I believed him to be guilty until--'
 
-'I beg your pardon! I beg your pardon!' interjected Mr Cupples, laying
+'I beg your pardon! I beg your pardon!' interjected Mr. Cupples, laying
 down his knife and fork. 'I was most careful, when we talked it all over
 the other night, to say nothing indicating such a belief. I was always
 certain that he was innocent.'
@@ -6967,7 +7001,7 @@ certain that he was innocent.'
 on earth you could mean. Certain that he was innocent! How can you be
 certain? You are generally more careful about terms than that, Cupples.'
 
-'I said "certain",' Mr Cupples repeated firmly.
+'I said "certain",' Mr. Cupples repeated firmly.
 
 Trent shrugged his shoulders. 'If you really were, after reading my
 manuscript and discussing the whole thing as we did,' he rejoined, 'then
@@ -6976,7 +7010,7 @@ operations of the human reason; an attitude which, while it is bad
 Christianity and also infernal nonsense, is oddly enough bad Positivism
 too, unless I misunderstand that system. Why, man--'
 
-'Let me say a word,' Mr Cupples interposed again, folding his hands
+'Let me say a word,' Mr. Cupples interposed again, folding his hands
 above his plate. 'I assure you I am far from abandoning reason. I am
 certain he is innocent, and I always was certain of it, because of
 something that I know, and knew from the very beginning. You asked me
@@ -6996,18 +7030,20 @@ something you dreamed after one of those debauches of soda and milk. You
 can't really mean that all the time I was working on the case down there
 you knew Marlowe was innocent.'
 
-Mr Cupples, busy with his last mouthful, nodded brightly. He made an end
+Mr. Cupples, busy with his last mouthful, nodded brightly. He made an end
 of eating, wiped his sparse moustache, and then leaned forward over the
 table. 'It's very simple,' he said. 'I shot Manderson myself.'
 
-'I am afraid I startled you,' Trent heard the voice of Mr Cupples say.
+***
+
+'I am afraid I startled you,' Trent heard the voice of Mr. Cupples say.
 He forced himself out of his stupefaction like a diver striking upward
 for the surface, and with a rigid movement raised his glass. But half
 of the wine splashed upon the cloth, and he put it carefully down again
 untasted. He drew a deep breath, which was exhaled in a laugh wholly
 without merriment. 'Go on,' he said.
 
-'It was not murder,' began Mr Cupples, slowly measuring off inches with
+'It was not murder,' began Mr. Cupples, slowly measuring off inches with
 a fork on the edge of the table. 'I will tell you the whole story. On
 that Sunday night I was taking my before-bedtime constitutional, having
 set out from the hotel about a quarter past ten. I went along the field
@@ -7024,7 +7060,7 @@ care to tell a falsehood.'
 A slight groan came from Trent. He drank a little wine, and said
 stonily, 'Go on, please.'
 
-'It was, as you know,' pursued Mr Cupples, 'a moonlight night, but I was
+'It was, as you know,' pursued Mr. Cupples, 'a moonlight night, but I was
 in shadow under the trees by the stone wall, and anyhow they could not
 suppose there was any one near them. I heard all that passed just
 as Marlowe has narrated it to us, and I saw the car go off towards
@@ -7091,7 +7127,7 @@ much out of breath.'
 'Out of breath,' repeated Trent mechanically, still staring at his
 companion as if hypnotized.
 
-'I had had a sharp run,' Mr Cupples reminded him. 'Well, approaching the
+'I had had a sharp run,' Mr. Cupples reminded him. 'Well, approaching the
 hotel from the back I could see into the writing-room through the open
 window. There was nobody in there, so I climbed over the sill, walked to
 the bell and rang it, and then sat down to write a letter I had meant to
@@ -7099,7 +7135,7 @@ write the next day. I saw by the clock that it was a little past eleven.
 When the waiter answered the bell I asked for a glass of milk and a
 postage stamp. Soon afterwards I went up to bed. But I could not sleep.'
 
-Mr Cupples, having nothing more to say, ceased speaking. He looked in
+Mr. Cupples, having nothing more to say, ceased speaking. He looked in
 mild surprise at Trent, who now sat silent, supporting his bent head in
 his hands.
 
